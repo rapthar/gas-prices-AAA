@@ -247,8 +247,8 @@ export const GasPriceScraper = () => {
     try {
       console.log('Testing single state scraping...');
       
-      // Test with Alaska first
-      const stateInfo = STATE_URLS[0]; // Alaska
+      // Test with DC to check metro extraction
+      const stateInfo = STATE_URLS.find(s => s.state === 'DC') || STATE_URLS[0]; // DC or Alaska
       console.log(`Scraping ${stateInfo.name} (${stateInfo.state})...`);
       
       const result = await FirecrawlService.scrapeUrl(stateInfo.url);
@@ -292,6 +292,60 @@ export const GasPriceScraper = () => {
     }
   };
 
+  // Test function specifically for RI
+  const handleTestRI = async () => {
+    setIsLoading(true);
+    try {
+      console.log('Testing RI state scraping...');
+      
+      const stateInfo = STATE_URLS.find(s => s.state === 'RI');
+      console.log(`Scraping ${stateInfo?.name} (${stateInfo?.state})...`);
+      
+      if (!stateInfo) {
+        throw new Error('RI state not found');
+      }
+      
+      const result = await FirecrawlService.scrapeUrl(stateInfo.url);
+      
+      if (result.success && result.data) {
+        const markdown = result.data.data?.markdown || result.data.markdown || '';
+        console.log('Raw markdown from AAA for RI:', markdown);
+        
+        const extractedData = extractGasPriceData(markdown, stateInfo.state);
+        console.log('Extracted data for RI:', extractedData);
+        
+        setScrapedData([{
+          url: stateInfo.url,
+          state: stateInfo.state,
+          name: stateInfo.name,
+          data: result.data,
+          ...extractedData
+        }]);
+        
+        toast({
+          title: "RI Test Complete",
+          description: `Successfully scraped ${stateInfo.name}. Check console for results.`,
+        });
+      } else {
+        console.error('Failed to scrape RI:', result.error);
+        toast({
+          title: "Test Error",
+          description: "Failed to scrape RI",
+          variant: "destructive",
+        });
+      }
+    } catch (error) {
+      console.error('Error testing RI:', error);
+      toast({
+        title: "Test Error",
+        description: "Error testing RI scraping",
+        variant: "destructive",
+      });
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
   // Test function to scrape all states with correct AAA format
   const handleTestAllStates = async () => {
     setIsLoading(true);
@@ -309,7 +363,15 @@ export const GasPriceScraper = () => {
         
         console.log(`Scraping ${stateInfo.name} (${stateInfo.state})...`);
         
-        let result = await FirecrawlService.scrapeUrl(stateInfo.url);
+        // Add timeout to prevent unresponsive page
+        const timeoutPromise = new Promise<never>((_, reject) => 
+          setTimeout(() => reject(new Error('Request timeout')), 30000)
+        );
+        
+        let result = await Promise.race([
+          FirecrawlService.scrapeUrl(stateInfo.url),
+          timeoutPromise
+        ]) as any;
         let retryCount = 0;
         const maxRetries = 2;
         
@@ -318,29 +380,49 @@ export const GasPriceScraper = () => {
           console.warn(`Retry ${retryCount + 1} for ${stateInfo.name}:`, result.error);
           retryCount++;
           await new Promise(resolve => setTimeout(resolve, 2000));
-          result = await FirecrawlService.scrapeUrl(stateInfo.url);
+          result = await Promise.race([
+            FirecrawlService.scrapeUrl(stateInfo.url),
+            timeoutPromise
+          ]);
         }
         
         if (result.success && result.data) {
           const markdown = result.data.data?.markdown || result.data.markdown || '';
-          const extractedData = extractGasPriceData(markdown, stateInfo.state);
+          console.log(`Processing markdown for ${stateInfo.name}, length: ${markdown.length}`);
           
-          // Validate that we extracted at least some data
-          const hasData = extractedData.regular || extractedData.midgrade || 
-                         extractedData.premium || extractedData.diesel || 
-                         extractedData.metros.length > 0;
-          
-          if (hasData) {
-            results.push({
-              url: stateInfo.url,
-              state: stateInfo.state,
-              name: stateInfo.name,
-              data: result.data,
-              ...extractedData
-            });
-            console.log(`✅ Successfully extracted data for ${stateInfo.name}:`, extractedData);
-          } else {
-            console.warn(`⚠️ No data extracted for ${stateInfo.name}`);
+          try {
+            const extractedData = extractGasPriceData(markdown, stateInfo.state);
+            
+            // Validate that we extracted at least some data
+            const hasData = extractedData.regular || extractedData.midgrade || 
+                           extractedData.premium || extractedData.diesel || 
+                           extractedData.metros.length > 0;
+            
+            if (hasData) {
+              results.push({
+                url: stateInfo.url,
+                state: stateInfo.state,
+                name: stateInfo.name,
+                data: result.data,
+                ...extractedData
+              });
+              console.log(`✅ Successfully extracted data for ${stateInfo.name}:`, extractedData);
+            } else {
+              console.warn(`⚠️ No data extracted for ${stateInfo.name}`);
+              results.push({
+                url: stateInfo.url,
+                state: stateInfo.state,
+                name: stateInfo.name,
+                regular: null,
+                midgrade: null,
+                premium: null,
+                diesel: null,
+                metros: [],
+                data: null
+              });
+            }
+          } catch (extractError) {
+            console.error(`❌ Error extracting data for ${stateInfo.name}:`, extractError);
             results.push({
               url: stateInfo.url,
               state: stateInfo.state,
@@ -397,7 +479,24 @@ export const GasPriceScraper = () => {
   };
 
   // Function to extract detailed time-based pricing data from markdown tables
-  const extractDetailedMetroData = (tableBody: string, city: string): MetroPriceData => {
+  const extractDetailedMetroData = (tableBody: string, city: string): MetroPriceData | null => {
+    // Check if this is a summary section that should be skipped
+    const invalidCityPatterns = [
+      /highest\s+recorded\s+average\s+price/i,
+      /state\s+summary/i,
+      /overview/i,
+      /summary/i,
+      /highest/i,
+      /recorded/i,
+      /average\s+price/i
+    ];
+    
+    const isInvalidCity = invalidCityPatterns.some(pattern => pattern.test(city));
+    if (isInvalidCity) {
+      console.log('Skipping invalid city/summary section:', city);
+      return null;
+    }
+    
     const rows = tableBody.split('\n').map(r => r.trim()).filter(Boolean);
     const metroData: MetroPriceData = {
       city,
@@ -496,6 +595,10 @@ export const GasPriceScraper = () => {
     try {
       console.log('Extracting data for state:', state, 'from markdown length:', markdown.length);
       
+      // Add a safety check to prevent infinite loops
+      const startTime = Date.now();
+      const maxProcessingTime = 10000; // 10 seconds max
+      
       // Initialize the result structure
       const result: ScrapedData = {
         url: '',
@@ -523,10 +626,24 @@ export const GasPriceScraper = () => {
 
       // Extract metro area data
       // Look for patterns like "### CityName" followed by tables
-      const metroSectionRegex = /###\s+([A-Za-z\s]+)\s*\n([\s\S]*?)(?=###|$)/g;
+      // Updated to handle parentheses, hyphens, and other special characters in metro names
+      const metroSectionRegex = /###\s+([A-Za-z\s\-\(\)]+)\s*\n([\s\S]*?)(?=###|$)/g;
       let metroMatch;
+      let metroCount = 0;
+      const maxMetros = 50; // Prevent infinite loops
       
       while ((metroMatch = metroSectionRegex.exec(markdown)) !== null) {
+        // Safety check to prevent infinite loops
+        if (Date.now() - startTime > maxProcessingTime) {
+          console.warn('Processing timeout reached for', state);
+          break;
+        }
+        
+        metroCount++;
+        if (metroCount > maxMetros) {
+          console.warn('Too many metros found for', state, '- stopping at', maxMetros);
+          break;
+        }
         const cityName = metroMatch[1].trim();
         const metroContent = metroMatch[2];
         
@@ -534,7 +651,20 @@ export const GasPriceScraper = () => {
         console.log('Metro content:', metroContent.substring(0, 200));
         
         // Skip if this looks like a summary section rather than a city
-        if (cityName.toLowerCase().includes('highest') || 
+        const invalidCityPatterns = [
+          /highest\s+recorded\s+average\s+price/i,
+          /state\s+summary/i,
+          /overview/i,
+          /summary/i,
+          /highest/i,
+          /recorded/i,
+          /average\s+price/i,
+          /price\s+summary/i
+        ];
+        
+        const isInvalidCity = invalidCityPatterns.some(pattern => pattern.test(cityName));
+        if (isInvalidCity || 
+            cityName.toLowerCase().includes('highest') || 
             cityName.toLowerCase().includes('recorded') ||
             cityName.toLowerCase().includes('average') ||
             cityName.toLowerCase().includes('price') ||
@@ -547,7 +677,7 @@ export const GasPriceScraper = () => {
         // Extract detailed metro data
         const metroData = extractDetailedMetroData(metroContent, cityName);
         
-        if (metroData.city && (metroData.price || Object.keys(metroData.currentAvg || {}).length > 0)) {
+        if (metroData && metroData.city && (metroData.price || Object.keys(metroData.currentAvg || {}).length > 0)) {
           result.metros.push(metroData);
           console.log('Added metro data for:', cityName, metroData);
         }
@@ -569,17 +699,34 @@ export const GasPriceScraper = () => {
           /highest\s+recorded\s+average\s+price/i,
           /state\s+summary/i,
           /overview/i,
-          /summary/i
+          /summary/i,
+          /highest/i,
+          /recorded/i,
+          /average\s+price/i
         ];
         
         for (const pattern of cityPatterns) {
           let match;
+          let patternCount = 0;
+          const maxPatternMatches = 100; // Prevent infinite loops
+          
           while ((match = pattern.exec(markdown)) !== null) {
+            // Safety check to prevent infinite loops
+            if (Date.now() - startTime > maxProcessingTime) {
+              console.warn('Processing timeout reached for', state);
+              break;
+            }
+            
+            patternCount++;
+            if (patternCount > maxPatternMatches) {
+              console.warn('Too many pattern matches for', state, '- stopping at', maxPatternMatches);
+              break;
+            }
             const cityName = match[1].trim();
             
             // Skip if it's not a valid city name
-            if (cityName.length < 3 || cityName.length > 50 || 
-                /^(Regular|Mid|Premium|Diesel|Current|Yesterday|Week|Month|Year|Avg|Average|Alaska|average|gas|prices|Washington|New York|Columbia|National|State|Today|Yesterday|Week Ago|Month Ago|Year Ago|Current Avg|Yesterday Avg|Week Ago Avg|Month Ago Avg|Year Ago Avg)$/i.test(cityName)) {
+            if (cityName.length < 3 || cityName.length > 100 || 
+                /^(Regular|Mid|Premium|Diesel|Current|Yesterday|Week|Month|Year|Avg|Average|Alaska|average|gas|prices|New York|Columbia|National|State|Today|Yesterday|Week Ago|Month Ago|Year Ago|Current Avg|Yesterday Avg|Week Ago Avg|Month Ago Avg|Year Ago Avg)$/i.test(cityName)) {
               continue;
             }
             
@@ -610,13 +757,26 @@ export const GasPriceScraper = () => {
         // Look for table patterns that might contain city data
         const tableRegex = /\|\s*([A-Za-z\s]+)\s*\|\s*\$(\d+\.\d+)\s*\|\s*\$(\d+\.\d+)\s*\|\s*\$(\d+\.\d+)\s*\|\s*\$(\d+\.\d+)\s*\|/g;
         let tableMatch;
+        let tableCount = 0;
+        const maxTableMatches = 100; // Prevent infinite loops
         
         while ((tableMatch = tableRegex.exec(markdown)) !== null) {
+          // Safety check to prevent infinite loops
+          if (Date.now() - startTime > maxProcessingTime) {
+            console.warn('Processing timeout reached for', state);
+            break;
+          }
+          
+          tableCount++;
+          if (tableCount > maxTableMatches) {
+            console.warn('Too many table matches for', state, '- stopping at', maxTableMatches);
+            break;
+          }
           const cityName = tableMatch[1].trim();
           
           // Skip if it's not a valid city name or is a common invalid name
-          if (cityName.length < 3 || cityName.length > 50 || 
-              /^(Regular|Mid|Premium|Diesel|Current|Yesterday|Week|Month|Year|Avg|Average|Washington|New York|Columbia|National|State|Today|Yesterday|Week Ago|Month Ago|Year Ago|Current Avg|Yesterday Avg|Week Ago Avg|Month Ago Avg|Year Ago Avg|Highest|Recorded|Price|Summary|Overview)$/i.test(cityName) ||
+          if (cityName.length < 3 || cityName.length > 100 || 
+              /^(Regular|Mid|Premium|Diesel|Current|Yesterday|Week|Month|Year|Avg|Average|New York|Columbia|National|State|Today|Yesterday|Week Ago|Month Ago|Year Ago|Current Avg|Yesterday Avg|Week Ago Avg|Month Ago Avg|Year Ago Avg|Highest|Recorded|Price|Summary|Overview)$/i.test(cityName) ||
               cityName.toLowerCase().includes('highest recorded') ||
               cityName.toLowerCase().includes('average price') ||
               cityName.toLowerCase().includes('state summary')) {
@@ -658,7 +818,7 @@ export const GasPriceScraper = () => {
 
       // Filter out invalid metros that appear across multiple states
       const invalidMetroNames = [
-        'Washington', 'New York', 'Columbia', 'National', 'State',
+        'New York', 'Columbia', 'National', 'State',
         'Today', 'Yesterday', 'Week Ago', 'Month Ago', 'Year Ago',
         'Current Avg', 'Yesterday Avg', 'Week Ago Avg', 'Month Ago Avg', 'Year Ago Avg',
         'Highest', 'Recorded', 'Average', 'Price', 'Summary', 'Overview',
@@ -677,7 +837,8 @@ export const GasPriceScraper = () => {
         return isValid;
       });
       
-      console.log('Final extracted data for', state, ':', result);
+      const processingTime = Date.now() - startTime;
+      console.log('Final extracted data for', state, ':', result, `(processed in ${processingTime}ms)`);
       return result;
     } catch (error) {
       console.error('Error extracting gas price data:', error);
@@ -703,7 +864,8 @@ export const GasPriceScraper = () => {
       const cityMatch = markdown.match(citySectionRegex);
       
       if (cityMatch) {
-        return extractDetailedMetroData(cityMatch[1], cityName);
+        const metroData = extractDetailedMetroData(cityMatch[1], cityName);
+        return metroData; // This will be null if the city is invalid
       }
       
       return null;
@@ -727,7 +889,15 @@ export const GasPriceScraper = () => {
         const stateInfo = STATE_URLS[i];
         setCurrentState(stateInfo.name);
         
-        let result = await FirecrawlService.scrapeUrl(stateInfo.url);
+        // Add timeout to prevent unresponsive page
+        const timeoutPromise = new Promise<never>((_, reject) => 
+          setTimeout(() => reject(new Error('Request timeout')), 30000)
+        );
+        
+        let result = await Promise.race([
+          FirecrawlService.scrapeUrl(stateInfo.url),
+          timeoutPromise
+        ]) as any;
         let retryCount = 0;
         const maxRetries = 2;
         
@@ -736,7 +906,10 @@ export const GasPriceScraper = () => {
           console.warn(`Retry ${retryCount + 1} for ${stateInfo.name}:`, result.error);
           retryCount++;
           await new Promise(resolve => setTimeout(resolve, 2000)); // Wait 2 seconds before retry
-          result = await FirecrawlService.scrapeUrl(stateInfo.url);
+          result = await Promise.race([
+            FirecrawlService.scrapeUrl(stateInfo.url),
+            timeoutPromise
+          ]);
         }
         
         if (result.success && result.data) {
@@ -1006,6 +1179,14 @@ export const GasPriceScraper = () => {
                   className="border-purple-500 text-purple-500 hover:bg-purple-500/10"
                 >
                   Test Single State
+                </Button>
+                <Button
+                  onClick={handleTestRI}
+                  variant="outline"
+                  size="sm"
+                  className="border-orange-500 text-orange-500 hover:bg-orange-500/10"
+                >
+                  Test RI
                 </Button>
                 <Button
                   onClick={handleTestAllStates}

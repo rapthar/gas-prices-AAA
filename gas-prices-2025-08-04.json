@@ -1,0 +1,6018 @@
+[
+  {
+    "url": "",
+    "state": "AK",
+    "name": "AK",
+    "data": {},
+    "regular": "$3.762",
+    "midgrade": "$3.979",
+    "premium": "$4.230",
+    "diesel": "$4.080",
+    "metros": [
+      {
+        "city": "Anchorage",
+        "price": "$$3.697",
+        "midPrice": "$$3.997",
+        "premiumPrice": "$$4.266",
+        "dieselPrice": "$$4.041",
+        "currentAvg": {
+          "regular": "$$3.697",
+          "mid": "$$3.997",
+          "premium": "$$4.266",
+          "diesel": "$$4.041"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fairbanks",
+        "price": "$$3.809",
+        "midPrice": "$$4.084",
+        "premiumPrice": "$$4.324",
+        "dieselPrice": "$$4.154",
+        "currentAvg": {
+          "regular": "$$3.809",
+          "mid": "$$4.084",
+          "premium": "$$4.324",
+          "diesel": "$$4.154"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Juneau",
+        "price": "$$3.774",
+        "midPrice": "$$3.706",
+        "premiumPrice": "$$3.826",
+        "dieselPrice": "$$4.362",
+        "currentAvg": {
+          "regular": "$$3.774",
+          "mid": "$$3.706",
+          "premium": "$$3.826",
+          "diesel": "$$4.362"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "AL",
+    "name": "AL",
+    "data": {},
+    "regular": "$2.777",
+    "midgrade": "$3.215",
+    "premium": "$3.610",
+    "diesel": "$3.466",
+    "metros": [
+      {
+        "city": "Auburn",
+        "price": "$$2.774",
+        "midPrice": "$$3.143",
+        "premiumPrice": "$$3.556",
+        "dieselPrice": "$$3.337",
+        "currentAvg": {
+          "regular": "$$2.774",
+          "mid": "$$3.143",
+          "premium": "$$3.556",
+          "diesel": "$$3.337"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Birmingham",
+        "price": "$$2.778",
+        "midPrice": "$$3.237",
+        "premiumPrice": "$$3.649",
+        "dieselPrice": "$$3.499",
+        "currentAvg": {
+          "regular": "$$2.778",
+          "mid": "$$3.237",
+          "premium": "$$3.649",
+          "diesel": "$$3.499"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Decatur",
+        "price": "$$2.718",
+        "midPrice": "$$3.156",
+        "premiumPrice": "$$3.527",
+        "dieselPrice": "$$3.349",
+        "currentAvg": {
+          "regular": "$$2.718",
+          "mid": "$$3.156",
+          "premium": "$$3.527",
+          "diesel": "$$3.349"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Dothan",
+        "price": "$$2.791",
+        "midPrice": "$$3.155",
+        "premiumPrice": "$$3.569",
+        "dieselPrice": "$$3.565",
+        "currentAvg": {
+          "regular": "$$2.791",
+          "mid": "$$3.155",
+          "premium": "$$3.569",
+          "diesel": "$$3.565"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Gadsden",
+        "price": "$$2.661",
+        "midPrice": "$$3.063",
+        "premiumPrice": "$$3.506",
+        "dieselPrice": "$$3.367",
+        "currentAvg": {
+          "regular": "$$2.661",
+          "mid": "$$3.063",
+          "premium": "$$3.506",
+          "diesel": "$$3.367"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Huntsville",
+        "price": "$$2.735",
+        "midPrice": "$$3.147",
+        "premiumPrice": "$$3.493",
+        "dieselPrice": "$$3.376",
+        "currentAvg": {
+          "regular": "$$2.735",
+          "mid": "$$3.147",
+          "premium": "$$3.493",
+          "diesel": "$$3.376"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Mobile",
+        "price": "$$2.775",
+        "midPrice": "$$3.258",
+        "premiumPrice": "$$3.610",
+        "dieselPrice": "$$3.487",
+        "currentAvg": {
+          "regular": "$$2.775",
+          "mid": "$$3.258",
+          "premium": "$$3.610",
+          "diesel": "$$3.487"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Montgomery",
+        "price": "$$2.815",
+        "midPrice": "$$3.268",
+        "premiumPrice": "$$3.717",
+        "dieselPrice": "$$3.500",
+        "currentAvg": {
+          "regular": "$$2.815",
+          "mid": "$$3.268",
+          "premium": "$$3.717",
+          "diesel": "$$3.500"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Russell County",
+        "price": "$$2.876",
+        "midPrice": "$$3.251",
+        "premiumPrice": "$$3.705",
+        "dieselPrice": "$$3.520",
+        "currentAvg": {
+          "regular": "$$2.876",
+          "mid": "$$3.251",
+          "premium": "$$3.705",
+          "diesel": "$$3.520"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Tuscaloosa",
+        "price": "$$2.742",
+        "midPrice": "$$3.172",
+        "premiumPrice": "$$3.539",
+        "dieselPrice": "$$3.406",
+        "currentAvg": {
+          "regular": "$$2.742",
+          "mid": "$$3.172",
+          "premium": "$$3.539",
+          "diesel": "$$3.406"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "AR",
+    "name": "AR",
+    "data": {},
+    "regular": "$2.771",
+    "midgrade": "$3.204",
+    "premium": "$3.576",
+    "diesel": "$3.403",
+    "metros": [
+      {
+        "city": "Hot Springs",
+        "price": "$$2.694",
+        "midPrice": "$$3.202",
+        "premiumPrice": "$$3.578",
+        "dieselPrice": "$$3.325",
+        "currentAvg": {
+          "regular": "$$2.694",
+          "mid": "$$3.202",
+          "premium": "$$3.578",
+          "diesel": "$$3.325"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jonesboro",
+        "price": "$$2.697",
+        "midPrice": "$$3.142",
+        "premiumPrice": "$$3.653",
+        "dieselPrice": "$$3.413",
+        "currentAvg": {
+          "regular": "$$2.697",
+          "mid": "$$3.142",
+          "premium": "$$3.653",
+          "diesel": "$$3.413"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pine Bluff",
+        "price": "$$2.792",
+        "midPrice": "$$3.318",
+        "premiumPrice": "$$3.683",
+        "dieselPrice": "$$3.483",
+        "currentAvg": {
+          "regular": "$$2.792",
+          "mid": "$$3.318",
+          "premium": "$$3.683",
+          "diesel": "$$3.483"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "West Memphis",
+        "price": "$$2.848",
+        "midPrice": "$$3.313",
+        "premiumPrice": "$$3.713",
+        "dieselPrice": "$$3.512",
+        "currentAvg": {
+          "regular": "$$2.848",
+          "mid": "$$3.313",
+          "premium": "$$3.713",
+          "diesel": "$$3.512"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "AZ",
+    "name": "AZ",
+    "data": {},
+    "regular": "$3.198",
+    "midgrade": "$3.548",
+    "premium": "$3.869",
+    "diesel": "$3.645",
+    "metros": [
+      {
+        "city": "East Valley",
+        "price": "$$3.349",
+        "midPrice": "$$3.722",
+        "premiumPrice": "$$4.027",
+        "dieselPrice": "$$3.630",
+        "currentAvg": {
+          "regular": "$$3.349",
+          "mid": "$$3.722",
+          "premium": "$$4.027",
+          "diesel": "$$3.630"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Flagstaff",
+        "price": "$$3.094",
+        "midPrice": "$$3.347",
+        "premiumPrice": "$$3.722",
+        "dieselPrice": "$$3.616",
+        "currentAvg": {
+          "regular": "$$3.094",
+          "mid": "$$3.347",
+          "premium": "$$3.722",
+          "diesel": "$$3.616"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Glendale",
+        "price": "$$3.274",
+        "midPrice": "$$3.652",
+        "premiumPrice": "$$3.928",
+        "dieselPrice": "$$3.626",
+        "currentAvg": {
+          "regular": "$$3.274",
+          "mid": "$$3.652",
+          "premium": "$$3.928",
+          "diesel": "$$3.626"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Peoria",
+        "price": "$$3.295",
+        "midPrice": "$$3.680",
+        "premiumPrice": "$$3.977",
+        "dieselPrice": "$$3.657",
+        "currentAvg": {
+          "regular": "$$3.295",
+          "mid": "$$3.680",
+          "premium": "$$3.977",
+          "diesel": "$$3.657"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Phoenix Proper",
+        "price": "$$3.251",
+        "midPrice": "$$3.618",
+        "premiumPrice": "$$3.926",
+        "dieselPrice": "$$3.624",
+        "currentAvg": {
+          "regular": "$$3.251",
+          "mid": "$$3.618",
+          "premium": "$$3.926",
+          "diesel": "$$3.624"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pima County",
+        "price": "$$3.050",
+        "midPrice": "$$3.417",
+        "premiumPrice": "$$3.716",
+        "dieselPrice": "$$3.606",
+        "currentAvg": {
+          "regular": "$$3.050",
+          "mid": "$$3.417",
+          "premium": "$$3.716",
+          "diesel": "$$3.606"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Prescott",
+        "price": "$$3.132",
+        "midPrice": "$$3.416",
+        "premiumPrice": "$$3.819",
+        "dieselPrice": "$$3.641",
+        "currentAvg": {
+          "regular": "$$3.132",
+          "mid": "$$3.416",
+          "premium": "$$3.819",
+          "diesel": "$$3.641"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Scottsdale",
+        "price": "$$3.387",
+        "midPrice": "$$3.717",
+        "premiumPrice": "$$4.058",
+        "dieselPrice": "$$3.705",
+        "currentAvg": {
+          "regular": "$$3.387",
+          "mid": "$$3.717",
+          "premium": "$$4.058",
+          "diesel": "$$3.705"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Tucson",
+        "price": "$$3.046",
+        "midPrice": "$$3.412",
+        "premiumPrice": "$$3.711",
+        "dieselPrice": "$$3.603",
+        "currentAvg": {
+          "regular": "$$3.046",
+          "mid": "$$3.412",
+          "premium": "$$3.711",
+          "diesel": "$$3.603"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "West Valley",
+        "price": "$$3.265",
+        "midPrice": "$$3.647",
+        "premiumPrice": "$$3.931",
+        "dieselPrice": "$$3.617",
+        "currentAvg": {
+          "regular": "$$3.265",
+          "mid": "$$3.647",
+          "premium": "$$3.931",
+          "diesel": "$$3.617"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Yuma",
+        "price": "$$3.037",
+        "midPrice": "$$3.420",
+        "premiumPrice": "$$3.756",
+        "dieselPrice": "$$3.616",
+        "currentAvg": {
+          "regular": "$$3.037",
+          "mid": "$$3.420",
+          "premium": "$$3.756",
+          "diesel": "$$3.616"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "CA",
+    "name": "CA",
+    "data": {},
+    "regular": "$4.498",
+    "midgrade": "$4.709",
+    "premium": "$4.901",
+    "diesel": "$5.159",
+    "metros": [
+      {
+        "city": "Bakersfield",
+        "price": "$$4.500",
+        "midPrice": "$$4.706",
+        "premiumPrice": "$$4.956",
+        "dieselPrice": "$$5.155",
+        "currentAvg": {
+          "regular": "$$4.500",
+          "mid": "$$4.706",
+          "premium": "$$4.956",
+          "diesel": "$$5.155"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "El Centro",
+        "price": "$$4.232",
+        "midPrice": "$$4.386",
+        "premiumPrice": "$$4.600",
+        "dieselPrice": "$$4.935",
+        "currentAvg": {
+          "regular": "$$4.232",
+          "mid": "$$4.386",
+          "premium": "$$4.600",
+          "diesel": "$$4.935"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fresno",
+        "price": "$$4.579",
+        "midPrice": "$$4.838",
+        "premiumPrice": "$$5.035",
+        "dieselPrice": "$$5.198",
+        "currentAvg": {
+          "regular": "$$4.579",
+          "mid": "$$4.838",
+          "premium": "$$5.035",
+          "diesel": "$$5.198"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Merced",
+        "price": "$$4.448",
+        "midPrice": "$$4.751",
+        "premiumPrice": "$$4.971",
+        "dieselPrice": "$$5.181",
+        "currentAvg": {
+          "regular": "$$4.448",
+          "mid": "$$4.751",
+          "premium": "$$4.971",
+          "diesel": "$$5.181"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Modesto",
+        "price": "$$4.294",
+        "midPrice": "$$4.493",
+        "premiumPrice": "$$4.759",
+        "dieselPrice": "$$5.225",
+        "currentAvg": {
+          "regular": "$$4.294",
+          "mid": "$$4.493",
+          "premium": "$$4.759",
+          "diesel": "$$5.225"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Napa",
+        "price": "$$4.805",
+        "midPrice": "$$4.926",
+        "premiumPrice": "$$5.135",
+        "dieselPrice": "$$5.311",
+        "currentAvg": {
+          "regular": "$$4.805",
+          "mid": "$$4.926",
+          "premium": "$$5.135",
+          "diesel": "$$5.311"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Oakland",
+        "price": "$$4.576",
+        "midPrice": "$$4.807",
+        "premiumPrice": "$$5.019",
+        "dieselPrice": "$$5.296",
+        "currentAvg": {
+          "regular": "$$4.576",
+          "mid": "$$4.807",
+          "premium": "$$5.019",
+          "diesel": "$$5.296"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Orange County",
+        "price": "$$4.408",
+        "midPrice": "$$4.623",
+        "premiumPrice": "$$4.784",
+        "dieselPrice": "$$5.009",
+        "currentAvg": {
+          "regular": "$$4.408",
+          "mid": "$$4.623",
+          "premium": "$$4.784",
+          "diesel": "$$5.009"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Redding",
+        "price": "$$4.363",
+        "midPrice": "$$4.532",
+        "premiumPrice": "$$4.677",
+        "dieselPrice": "$$4.951",
+        "currentAvg": {
+          "regular": "$$4.363",
+          "mid": "$$4.532",
+          "premium": "$$4.677",
+          "diesel": "$$4.951"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Riverside",
+        "price": "$$4.315",
+        "midPrice": "$$4.555",
+        "premiumPrice": "$$4.742",
+        "dieselPrice": "$$5.050",
+        "currentAvg": {
+          "regular": "$$4.315",
+          "mid": "$$4.555",
+          "premium": "$$4.742",
+          "diesel": "$$5.050"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Sacramento",
+        "price": "$$4.501",
+        "midPrice": "$$4.747",
+        "premiumPrice": "$$4.955",
+        "dieselPrice": "$$5.273",
+        "currentAvg": {
+          "regular": "$$4.501",
+          "mid": "$$4.747",
+          "premium": "$$4.955",
+          "diesel": "$$5.273"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Salinas",
+        "price": "$$4.762",
+        "midPrice": "$$4.869",
+        "premiumPrice": "$$5.152",
+        "dieselPrice": "$$5.487",
+        "currentAvg": {
+          "regular": "$$4.762",
+          "mid": "$$4.869",
+          "premium": "$$5.152",
+          "diesel": "$$5.487"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Bernardino",
+        "price": "$$4.365",
+        "midPrice": "$$4.553",
+        "premiumPrice": "$$4.741",
+        "dieselPrice": "$$5.082",
+        "currentAvg": {
+          "regular": "$$4.365",
+          "mid": "$$4.553",
+          "premium": "$$4.741",
+          "diesel": "$$5.082"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Diego",
+        "price": "$$4.551",
+        "midPrice": "$$4.769",
+        "premiumPrice": "$$4.936",
+        "dieselPrice": "$$5.003",
+        "currentAvg": {
+          "regular": "$$4.551",
+          "mid": "$$4.769",
+          "premium": "$$4.936",
+          "diesel": "$$5.003"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Francisco",
+        "price": "$$4.689",
+        "midPrice": "$$4.872",
+        "premiumPrice": "$$5.075",
+        "dieselPrice": "$$5.342",
+        "currentAvg": {
+          "regular": "$$4.689",
+          "mid": "$$4.872",
+          "premium": "$$5.075",
+          "diesel": "$$5.342"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Jose",
+        "price": "$$4.524",
+        "midPrice": "$$4.746",
+        "premiumPrice": "$$4.926",
+        "dieselPrice": "$$5.205",
+        "currentAvg": {
+          "regular": "$$4.524",
+          "mid": "$$4.746",
+          "premium": "$$4.926",
+          "diesel": "$$5.205"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Rafael",
+        "price": "$$4.723",
+        "midPrice": "$$4.898",
+        "premiumPrice": "$$5.096",
+        "dieselPrice": "$$5.395",
+        "currentAvg": {
+          "regular": "$$4.723",
+          "mid": "$$4.898",
+          "premium": "$$5.096",
+          "diesel": "$$5.395"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Santa Rosa",
+        "price": "$$4.777",
+        "midPrice": "$$4.988",
+        "premiumPrice": "$$5.182",
+        "dieselPrice": "$$5.399",
+        "currentAvg": {
+          "regular": "$$4.777",
+          "mid": "$$4.988",
+          "premium": "$$5.182",
+          "diesel": "$$5.399"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Ventura",
+        "price": "$$4.509",
+        "midPrice": "$$4.733",
+        "premiumPrice": "$$4.888",
+        "dieselPrice": "$$5.173",
+        "currentAvg": {
+          "regular": "$$4.509",
+          "mid": "$$4.733",
+          "premium": "$$4.888",
+          "diesel": "$$5.173"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Yolo",
+        "price": "$$4.453",
+        "midPrice": "$$4.700",
+        "premiumPrice": "$$4.918",
+        "dieselPrice": "$$5.157",
+        "currentAvg": {
+          "regular": "$$4.453",
+          "mid": "$$4.700",
+          "premium": "$$4.918",
+          "diesel": "$$5.157"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "CO",
+    "name": "CO",
+    "data": {},
+    "regular": "$3.003",
+    "midgrade": "$3.393",
+    "premium": "$3.720",
+    "diesel": "$3.506",
+    "metros": [
+      {
+        "city": "Colorado Springs",
+        "price": "$$2.885",
+        "midPrice": "$$3.304",
+        "premiumPrice": "$$3.608",
+        "dieselPrice": "$$3.451",
+        "currentAvg": {
+          "regular": "$$2.885",
+          "mid": "$$3.304",
+          "premium": "$$3.608",
+          "diesel": "$$3.451"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Denver",
+        "price": "$$2.968",
+        "midPrice": "$$3.389",
+        "premiumPrice": "$$3.718",
+        "dieselPrice": "$$3.457",
+        "currentAvg": {
+          "regular": "$$2.968",
+          "mid": "$$3.389",
+          "premium": "$$3.718",
+          "diesel": "$$3.457"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Durango",
+        "price": "$$3.032",
+        "midPrice": "$$3.294",
+        "premiumPrice": "$$3.570",
+        "dieselPrice": "$$3.580",
+        "currentAvg": {
+          "regular": "$$3.032",
+          "mid": "$$3.294",
+          "premium": "$$3.570",
+          "diesel": "$$3.580"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Glenwood Springs",
+        "price": "$$3.320",
+        "midPrice": "$$3.861",
+        "premiumPrice": "$$3.896",
+        "dieselPrice": "$$3.817",
+        "currentAvg": {
+          "regular": "$$3.320",
+          "mid": "$$3.861",
+          "premium": "$$3.896",
+          "diesel": "$$3.817"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Greeley",
+        "price": "$$2.842",
+        "midPrice": "$$3.244",
+        "premiumPrice": "$$3.536",
+        "dieselPrice": "$$3.413",
+        "currentAvg": {
+          "regular": "$$2.842",
+          "mid": "$$3.244",
+          "premium": "$$3.536",
+          "diesel": "$$3.413"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pueblo",
+        "price": "$$2.836",
+        "midPrice": "$$3.290",
+        "premiumPrice": "$$3.644",
+        "dieselPrice": "$$3.389",
+        "currentAvg": {
+          "regular": "$$2.836",
+          "mid": "$$3.290",
+          "premium": "$$3.644",
+          "diesel": "$$3.389"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Vail",
+        "price": "$$3.330",
+        "midPrice": "$$3.541",
+        "premiumPrice": "$$3.874",
+        "dieselPrice": "$$3.720",
+        "currentAvg": {
+          "regular": "$$3.330",
+          "mid": "$$3.541",
+          "premium": "$$3.874",
+          "diesel": "$$3.720"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "CT",
+    "name": "CT",
+    "data": {},
+    "regular": "$3.123",
+    "midgrade": "$3.694",
+    "premium": "$4.084",
+    "diesel": "$3.783",
+    "metros": [
+      {
+        "city": "Bridgeport",
+        "price": "$$3.181",
+        "midPrice": "$$3.800",
+        "premiumPrice": "$$4.181",
+        "dieselPrice": "$$3.823",
+        "currentAvg": {
+          "regular": "$$3.181",
+          "mid": "$$3.800",
+          "premium": "$$4.181",
+          "diesel": "$$3.823"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Hartford",
+        "price": "$$3.110",
+        "midPrice": "$$3.683",
+        "premiumPrice": "$$4.111",
+        "dieselPrice": "$$3.788",
+        "currentAvg": {
+          "regular": "$$3.110",
+          "mid": "$$3.683",
+          "premium": "$$4.111",
+          "diesel": "$$3.788"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lower Fairfield County",
+        "price": "$$3.158",
+        "midPrice": "$$3.776",
+        "premiumPrice": "$$4.119",
+        "dieselPrice": "$$3.810",
+        "currentAvg": {
+          "regular": "$$3.158",
+          "mid": "$$3.776",
+          "premium": "$$4.119",
+          "diesel": "$$3.810"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Windham",
+        "price": "$$3.145",
+        "midPrice": "$$3.569",
+        "premiumPrice": "$$3.866",
+        "dieselPrice": "$$3.707",
+        "currentAvg": {
+          "regular": "$$3.145",
+          "mid": "$$3.569",
+          "premium": "$$3.866",
+          "diesel": "$$3.707"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "DC",
+    "name": "DC",
+    "data": {},
+    "regular": "$3.337",
+    "midgrade": "$3.854",
+    "premium": "$4.291",
+    "diesel": "$3.850",
+    "metros": []
+  },
+  {
+    "url": "",
+    "state": "DE",
+    "name": "DE",
+    "data": {},
+    "regular": "$3.164",
+    "midgrade": "$3.727",
+    "premium": "$4.001",
+    "diesel": "$3.859",
+    "metros": [
+      {
+        "city": "Dover",
+        "price": "$$3.173",
+        "midPrice": "$$3.607",
+        "premiumPrice": "$$3.968",
+        "dieselPrice": "$$3.880",
+        "currentAvg": {
+          "regular": "$$3.173",
+          "mid": "$$3.607",
+          "premium": "$$3.968",
+          "diesel": "$$3.880"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "FL",
+    "name": "FL",
+    "data": {},
+    "regular": "$2.938",
+    "midgrade": "$3.365",
+    "premium": "$3.691",
+    "diesel": "$3.577",
+    "metros": [
+      {
+        "city": "Daytona Beach",
+        "price": "$$2.918",
+        "midPrice": "$$3.323",
+        "premiumPrice": "$$3.668",
+        "dieselPrice": "$$3.565",
+        "currentAvg": {
+          "regular": "$$2.918",
+          "mid": "$$3.323",
+          "premium": "$$3.668",
+          "diesel": "$$3.565"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fort Lauderdale",
+        "price": "$$2.951",
+        "midPrice": "$$3.404",
+        "premiumPrice": "$$3.715",
+        "dieselPrice": "$$3.522",
+        "currentAvg": {
+          "regular": "$$2.951",
+          "mid": "$$3.404",
+          "premium": "$$3.715",
+          "diesel": "$$3.522"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Gainesville",
+        "price": "$$3.061",
+        "midPrice": "$$3.502",
+        "premiumPrice": "$$3.860",
+        "dieselPrice": "$$3.642",
+        "currentAvg": {
+          "regular": "$$3.061",
+          "mid": "$$3.502",
+          "premium": "$$3.860",
+          "diesel": "$$3.642"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Homosassa Springs",
+        "price": "$$2.935",
+        "midPrice": "$$3.307",
+        "premiumPrice": "$$3.670",
+        "dieselPrice": "$$3.590",
+        "currentAvg": {
+          "regular": "$$2.935",
+          "mid": "$$3.307",
+          "premium": "$$3.670",
+          "diesel": "$$3.590"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jacksonville",
+        "price": "$$2.888",
+        "midPrice": "$$3.309",
+        "premiumPrice": "$$3.670",
+        "dieselPrice": "$$3.569",
+        "currentAvg": {
+          "regular": "$$2.888",
+          "mid": "$$3.309",
+          "premium": "$$3.670",
+          "diesel": "$$3.569"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Miami",
+        "price": "$$2.951",
+        "midPrice": "$$3.393",
+        "premiumPrice": "$$3.624",
+        "dieselPrice": "$$3.477",
+        "currentAvg": {
+          "regular": "$$2.951",
+          "mid": "$$3.393",
+          "premium": "$$3.624",
+          "diesel": "$$3.477"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Naples",
+        "price": "$$2.998",
+        "midPrice": "$$3.426",
+        "premiumPrice": "$$3.760",
+        "dieselPrice": "$$3.626",
+        "currentAvg": {
+          "regular": "$$2.998",
+          "mid": "$$3.426",
+          "premium": "$$3.760",
+          "diesel": "$$3.626"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Ocala",
+        "price": "$$3.000",
+        "midPrice": "$$3.388",
+        "premiumPrice": "$$3.742",
+        "dieselPrice": "$$3.641",
+        "currentAvg": {
+          "regular": "$$3.000",
+          "mid": "$$3.388",
+          "premium": "$$3.742",
+          "diesel": "$$3.641"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Orlando",
+        "price": "$$2.895",
+        "midPrice": "$$3.296",
+        "premiumPrice": "$$3.620",
+        "dieselPrice": "$$3.570",
+        "currentAvg": {
+          "regular": "$$2.895",
+          "mid": "$$3.296",
+          "premium": "$$3.620",
+          "diesel": "$$3.570"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Panama City",
+        "price": "$$2.879",
+        "midPrice": "$$3.314",
+        "premiumPrice": "$$3.709",
+        "dieselPrice": "$$3.551",
+        "currentAvg": {
+          "regular": "$$2.879",
+          "mid": "$$3.314",
+          "premium": "$$3.709",
+          "diesel": "$$3.551"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pensacola",
+        "price": "$$2.893",
+        "midPrice": "$$3.342",
+        "premiumPrice": "$$3.725",
+        "dieselPrice": "$$3.520",
+        "currentAvg": {
+          "regular": "$$2.893",
+          "mid": "$$3.342",
+          "premium": "$$3.725",
+          "diesel": "$$3.520"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Punta Gorda",
+        "price": "$$2.859",
+        "midPrice": "$$3.283",
+        "premiumPrice": "$$3.590",
+        "dieselPrice": "$$3.530",
+        "currentAvg": {
+          "regular": "$$2.859",
+          "mid": "$$3.283",
+          "premium": "$$3.590",
+          "diesel": "$$3.530"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Sebring",
+        "price": "$$2.956",
+        "midPrice": "$$3.363",
+        "premiumPrice": "$$3.645",
+        "dieselPrice": "$$3.512",
+        "currentAvg": {
+          "regular": "$$2.956",
+          "mid": "$$3.363",
+          "premium": "$$3.645",
+          "diesel": "$$3.512"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Tallahassee",
+        "price": "$$2.947",
+        "midPrice": "$$3.393",
+        "premiumPrice": "$$3.763",
+        "dieselPrice": "$$3.622",
+        "currentAvg": {
+          "regular": "$$2.947",
+          "mid": "$$3.393",
+          "premium": "$$3.763",
+          "diesel": "$$3.622"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "The Villages",
+        "price": "$$2.951",
+        "midPrice": "$$3.321",
+        "premiumPrice": "$$3.696",
+        "dieselPrice": "$$3.616",
+        "currentAvg": {
+          "regular": "$$2.951",
+          "mid": "$$3.321",
+          "premium": "$$3.696",
+          "diesel": "$$3.616"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "GA",
+    "name": "GA",
+    "data": {},
+    "regular": "$2.912",
+    "midgrade": "$3.351",
+    "premium": "$3.744",
+    "diesel": "$3.590",
+    "metros": [
+      {
+        "city": "Albany",
+        "price": "$$2.875",
+        "midPrice": "$$3.303",
+        "premiumPrice": "$$3.665",
+        "dieselPrice": "$$3.538",
+        "currentAvg": {
+          "regular": "$$2.875",
+          "mid": "$$3.303",
+          "premium": "$$3.665",
+          "diesel": "$$3.538"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Athens",
+        "price": "$$2.906",
+        "midPrice": "$$3.307",
+        "premiumPrice": "$$3.676",
+        "dieselPrice": "$$3.503",
+        "currentAvg": {
+          "regular": "$$2.906",
+          "mid": "$$3.307",
+          "premium": "$$3.676",
+          "diesel": "$$3.503"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Atlanta",
+        "price": "$$2.931",
+        "midPrice": "$$3.380",
+        "premiumPrice": "$$3.776",
+        "dieselPrice": "$$3.597",
+        "currentAvg": {
+          "regular": "$$2.931",
+          "mid": "$$3.380",
+          "premium": "$$3.776",
+          "diesel": "$$3.597"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Brunswick",
+        "price": "$$2.937",
+        "midPrice": "$$3.383",
+        "premiumPrice": "$$3.772",
+        "dieselPrice": "$$3.689",
+        "currentAvg": {
+          "regular": "$$2.937",
+          "mid": "$$3.383",
+          "premium": "$$3.772",
+          "diesel": "$$3.689"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Dalton",
+        "price": "$$2.813",
+        "midPrice": "$$3.262",
+        "premiumPrice": "$$3.608",
+        "dieselPrice": "$$3.559",
+        "currentAvg": {
+          "regular": "$$2.813",
+          "mid": "$$3.262",
+          "premium": "$$3.608",
+          "diesel": "$$3.559"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Gainesville",
+        "price": "$$2.897",
+        "midPrice": "$$3.365",
+        "premiumPrice": "$$3.789",
+        "dieselPrice": "$$3.590",
+        "currentAvg": {
+          "regular": "$$2.897",
+          "mid": "$$3.365",
+          "premium": "$$3.789",
+          "diesel": "$$3.590"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Macon",
+        "price": "$$2.920",
+        "midPrice": "$$3.289",
+        "premiumPrice": "$$3.675",
+        "dieselPrice": "$$3.610",
+        "currentAvg": {
+          "regular": "$$2.920",
+          "mid": "$$3.289",
+          "premium": "$$3.675",
+          "diesel": "$$3.610"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rome",
+        "price": "$$2.804",
+        "midPrice": "$$3.302",
+        "premiumPrice": "$$3.702",
+        "dieselPrice": "$$3.475",
+        "currentAvg": {
+          "regular": "$$2.804",
+          "mid": "$$3.302",
+          "premium": "$$3.702",
+          "diesel": "$$3.475"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Savannah",
+        "price": "$$2.998",
+        "midPrice": "$$3.434",
+        "premiumPrice": "$$3.820",
+        "dieselPrice": "$$3.641",
+        "currentAvg": {
+          "regular": "$$2.998",
+          "mid": "$$3.434",
+          "premium": "$$3.820",
+          "diesel": "$$3.641"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Valdosta",
+        "price": "$$2.841",
+        "midPrice": "$$3.246",
+        "premiumPrice": "$$3.635",
+        "dieselPrice": "$$3.539",
+        "currentAvg": {
+          "regular": "$$2.841",
+          "mid": "$$3.246",
+          "premium": "$$3.635",
+          "diesel": "$$3.539"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Warner Robins",
+        "price": "$$2.815",
+        "midPrice": "$$3.156",
+        "premiumPrice": "$$3.582",
+        "dieselPrice": "$$3.495",
+        "currentAvg": {
+          "regular": "$$2.815",
+          "mid": "$$3.156",
+          "premium": "$$3.582",
+          "diesel": "$$3.495"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "HI",
+    "name": "HI",
+    "data": {},
+    "regular": "$4.448",
+    "midgrade": "$4.697",
+    "premium": "$4.926",
+    "diesel": "$5.241",
+    "metros": [
+      {
+        "city": "Hilo",
+        "price": "$$4.655",
+        "midPrice": "$$4.865",
+        "premiumPrice": "$$5.229",
+        "dieselPrice": "$$5.182",
+        "currentAvg": {
+          "regular": "$$4.655",
+          "mid": "$$4.865",
+          "premium": "$$5.229",
+          "diesel": "$$5.182"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Honolulu",
+        "price": "$$4.368",
+        "midPrice": "$$4.634",
+        "premiumPrice": "$$4.904",
+        "dieselPrice": "$$5.216",
+        "currentAvg": {
+          "regular": "$$4.368",
+          "mid": "$$4.634",
+          "premium": "$$4.904",
+          "diesel": "$$5.216"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Kahului",
+        "price": "$$4.432",
+        "midPrice": "$$4.676",
+        "premiumPrice": "$$4.730",
+        "dieselPrice": "$$5.341",
+        "currentAvg": {
+          "regular": "$$4.432",
+          "mid": "$$4.676",
+          "premium": "$$4.730",
+          "diesel": "$$5.341"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Wailuku",
+        "price": "$$4.432",
+        "midPrice": "$$4.676",
+        "premiumPrice": "$$4.730",
+        "dieselPrice": "$$5.341",
+        "currentAvg": {
+          "regular": "$$4.432",
+          "mid": "$$4.676",
+          "premium": "$$4.730",
+          "diesel": "$$5.341"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "IA",
+    "name": "IA",
+    "data": {},
+    "regular": "$2.980",
+    "midgrade": "$3.255",
+    "premium": "$3.788",
+    "diesel": "$3.595",
+    "metros": [
+      {
+        "city": "Ames",
+        "price": "$$3.110",
+        "midPrice": "$$3.633",
+        "premiumPrice": "$$3.836",
+        "dieselPrice": "$$3.590",
+        "currentAvg": {
+          "regular": "$$3.110",
+          "mid": "$$3.633",
+          "premium": "$$3.836",
+          "diesel": "$$3.590"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Cedar Rapids",
+        "price": "$$3.088",
+        "midPrice": "$$3.358",
+        "premiumPrice": "$$3.951",
+        "dieselPrice": "$$3.643",
+        "currentAvg": {
+          "regular": "$$3.088",
+          "mid": "$$3.358",
+          "premium": "$$3.951",
+          "diesel": "$$3.643"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Council Bluffs",
+        "price": "$$2.799",
+        "midPrice": "$$3.080",
+        "premiumPrice": "$$3.657",
+        "dieselPrice": "$$3.529",
+        "currentAvg": {
+          "regular": "$$2.799",
+          "mid": "$$3.080",
+          "premium": "$$3.657",
+          "diesel": "$$3.529"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Des Moines",
+        "price": "$$2.977",
+        "midPrice": "$$3.319",
+        "premiumPrice": "$$3.708",
+        "dieselPrice": "$$3.614",
+        "currentAvg": {
+          "regular": "$$2.977",
+          "mid": "$$3.319",
+          "premium": "$$3.708",
+          "diesel": "$$3.614"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Dubuque",
+        "price": "$$3.045",
+        "midPrice": "$$3.185",
+        "premiumPrice": "$$3.930",
+        "dieselPrice": "$$3.599",
+        "currentAvg": {
+          "regular": "$$3.045",
+          "mid": "$$3.185",
+          "premium": "$$3.930",
+          "diesel": "$$3.599"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Iowa City",
+        "price": "$$3.034",
+        "midPrice": "$$3.537",
+        "premiumPrice": "$$3.882",
+        "dieselPrice": "$$3.600",
+        "currentAvg": {
+          "regular": "$$3.034",
+          "mid": "$$3.537",
+          "premium": "$$3.882",
+          "diesel": "$$3.600"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "ID",
+    "name": "ID",
+    "data": {},
+    "regular": "$3.479",
+    "midgrade": "$3.749",
+    "premium": "$4.041",
+    "diesel": "$3.964",
+    "metros": [
+      {
+        "city": "Boise City",
+        "price": "$$3.510",
+        "midPrice": "$$3.759",
+        "premiumPrice": "$$3.988",
+        "dieselPrice": "$$3.984",
+        "currentAvg": {
+          "regular": "$$3.510",
+          "mid": "$$3.759",
+          "premium": "$$3.988",
+          "diesel": "$$3.984"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Franklin",
+        "price": "$$3.313",
+        "midPrice": "$$3.575",
+        "premiumPrice": "$$3.794",
+        "dieselPrice": "$$3.725",
+        "currentAvg": {
+          "regular": "$$3.313",
+          "mid": "$$3.575",
+          "premium": "$$3.794",
+          "diesel": "$$3.725"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Idaho Falls",
+        "price": "$$3.417",
+        "midPrice": "$$3.705",
+        "premiumPrice": "$$3.987",
+        "dieselPrice": "$$3.834",
+        "currentAvg": {
+          "regular": "$$3.417",
+          "mid": "$$3.705",
+          "premium": "$$3.987",
+          "diesel": "$$3.834"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lewiston",
+        "price": "$$3.277",
+        "midPrice": "$$3.544",
+        "premiumPrice": "$$3.829",
+        "dieselPrice": "$$4.057",
+        "currentAvg": {
+          "regular": "$$3.277",
+          "mid": "$$3.544",
+          "premium": "$$3.829",
+          "diesel": "$$4.057"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pocatello",
+        "price": "$$3.423",
+        "midPrice": "$$3.771",
+        "premiumPrice": "$$4.028",
+        "dieselPrice": "$$3.843",
+        "currentAvg": {
+          "regular": "$$3.423",
+          "mid": "$$3.771",
+          "premium": "$$4.028",
+          "diesel": "$$3.843"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Twin Falls",
+        "price": "$$3.503",
+        "midPrice": "$$3.799",
+        "premiumPrice": "$$4.125",
+        "dieselPrice": "$$3.974",
+        "currentAvg": {
+          "regular": "$$3.503",
+          "mid": "$$3.799",
+          "premium": "$$4.125",
+          "diesel": "$$3.974"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "IL",
+    "name": "IL",
+    "data": {},
+    "regular": "$3.436",
+    "midgrade": "$4.020",
+    "premium": "$4.481",
+    "diesel": "$3.788",
+    "metros": [
+      {
+        "city": "Alexander County",
+        "price": "$$3.499",
+        "midPrice": "$$0.000",
+        "premiumPrice": "$$0.000",
+        "dieselPrice": "$$0.000",
+        "currentAvg": {
+          "regular": "$$3.499",
+          "mid": "$$0.000",
+          "premium": "$$0.000",
+          "diesel": "$$0.000"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Chicago Metro",
+        "price": "$$3.602",
+        "midPrice": "$$4.175",
+        "premiumPrice": "$$4.692",
+        "dieselPrice": "$$3.865",
+        "currentAvg": {
+          "regular": "$$3.602",
+          "mid": "$$4.175",
+          "premium": "$$4.692",
+          "diesel": "$$3.865"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "City of Chicago",
+        "price": "$$3.831",
+        "midPrice": "$$4.421",
+        "premiumPrice": "$$4.936",
+        "dieselPrice": "$$4.097",
+        "currentAvg": {
+          "regular": "$$3.831",
+          "mid": "$$4.421",
+          "premium": "$$4.936",
+          "diesel": "$$4.097"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Danville",
+        "price": "$$3.306",
+        "midPrice": "$$3.826",
+        "premiumPrice": "$$4.176",
+        "dieselPrice": "$$3.830",
+        "currentAvg": {
+          "regular": "$$3.306",
+          "mid": "$$3.826",
+          "premium": "$$4.176",
+          "diesel": "$$3.830"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Decatur",
+        "price": "$$3.227",
+        "midPrice": "$$3.751",
+        "premiumPrice": "$$4.141",
+        "dieselPrice": "$$3.675",
+        "currentAvg": {
+          "regular": "$$3.227",
+          "mid": "$$3.751",
+          "premium": "$$4.141",
+          "diesel": "$$3.675"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "East Saint Louis",
+        "price": "$$3.297",
+        "midPrice": "$$3.791",
+        "premiumPrice": "$$4.134",
+        "dieselPrice": "$$3.765",
+        "currentAvg": {
+          "regular": "$$3.297",
+          "mid": "$$3.791",
+          "premium": "$$4.134",
+          "diesel": "$$3.765"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Elgin",
+        "price": "$$3.463",
+        "midPrice": "$$4.057",
+        "premiumPrice": "$$4.526",
+        "dieselPrice": "$$3.779",
+        "currentAvg": {
+          "regular": "$$3.463",
+          "mid": "$$4.057",
+          "premium": "$$4.526",
+          "diesel": "$$3.779"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lake County",
+        "price": "$$3.513",
+        "midPrice": "$$4.099",
+        "premiumPrice": "$$4.590",
+        "dieselPrice": "$$3.696",
+        "currentAvg": {
+          "regular": "$$3.513",
+          "mid": "$$4.099",
+          "premium": "$$4.590",
+          "diesel": "$$3.696"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Quincy",
+        "price": "$$3.225",
+        "midPrice": "$$3.519",
+        "premiumPrice": "$$3.818",
+        "dieselPrice": "$$3.588",
+        "currentAvg": {
+          "regular": "$$3.225",
+          "mid": "$$3.519",
+          "premium": "$$3.818",
+          "diesel": "$$3.588"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rockford",
+        "price": "$$3.248",
+        "midPrice": "$$3.802",
+        "premiumPrice": "$$4.257",
+        "dieselPrice": "$$3.747",
+        "currentAvg": {
+          "regular": "$$3.248",
+          "mid": "$$3.802",
+          "premium": "$$4.257",
+          "diesel": "$$3.747"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Springfield",
+        "price": "$$3.262",
+        "midPrice": "$$3.853",
+        "premiumPrice": "$$4.345",
+        "dieselPrice": "$$3.686",
+        "currentAvg": {
+          "regular": "$$3.262",
+          "mid": "$$3.853",
+          "premium": "$$4.345",
+          "diesel": "$$3.686"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "IN",
+    "name": "IN",
+    "data": {},
+    "regular": "$3.225",
+    "midgrade": "$3.755",
+    "premium": "$4.252",
+    "diesel": "$3.871",
+    "metros": [
+      {
+        "city": "Bloomington",
+        "price": "$$3.370",
+        "midPrice": "$$3.882",
+        "premiumPrice": "$$4.394",
+        "dieselPrice": "$$3.933",
+        "currentAvg": {
+          "regular": "$$3.370",
+          "mid": "$$3.882",
+          "premium": "$$4.394",
+          "diesel": "$$3.933"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Clarksville",
+        "price": "$$3.117",
+        "midPrice": "$$3.586",
+        "premiumPrice": "$$4.085",
+        "dieselPrice": "$$3.767",
+        "currentAvg": {
+          "regular": "$$3.117",
+          "mid": "$$3.586",
+          "premium": "$$4.085",
+          "diesel": "$$3.767"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Columbus",
+        "price": "$$3.241",
+        "midPrice": "$$3.744",
+        "premiumPrice": "$$4.268",
+        "dieselPrice": "$$3.861",
+        "currentAvg": {
+          "regular": "$$3.241",
+          "mid": "$$3.744",
+          "premium": "$$4.268",
+          "diesel": "$$3.861"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Elkhart",
+        "price": "$$3.289",
+        "midPrice": "$$3.808",
+        "premiumPrice": "$$4.328",
+        "dieselPrice": "$$3.856",
+        "currentAvg": {
+          "regular": "$$3.289",
+          "mid": "$$3.808",
+          "premium": "$$4.328",
+          "diesel": "$$3.856"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Evansville",
+        "price": "$$2.914",
+        "midPrice": "$$3.378",
+        "premiumPrice": "$$3.827",
+        "dieselPrice": "$$3.712",
+        "currentAvg": {
+          "regular": "$$2.914",
+          "mid": "$$3.378",
+          "premium": "$$3.827",
+          "diesel": "$$3.712"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fort Wayne",
+        "price": "$$3.315",
+        "midPrice": "$$3.826",
+        "premiumPrice": "$$4.382",
+        "dieselPrice": "$$3.887",
+        "currentAvg": {
+          "regular": "$$3.315",
+          "mid": "$$3.826",
+          "premium": "$$4.382",
+          "diesel": "$$3.887"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Gary",
+        "price": "$$3.188",
+        "midPrice": "$$3.709",
+        "premiumPrice": "$$4.197",
+        "dieselPrice": "$$3.913",
+        "currentAvg": {
+          "regular": "$$3.188",
+          "mid": "$$3.709",
+          "premium": "$$4.197",
+          "diesel": "$$3.913"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Indianapolis",
+        "price": "$$3.254",
+        "midPrice": "$$3.807",
+        "premiumPrice": "$$4.315",
+        "dieselPrice": "$$3.881",
+        "currentAvg": {
+          "regular": "$$3.254",
+          "mid": "$$3.807",
+          "premium": "$$4.315",
+          "diesel": "$$3.881"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Kokomo",
+        "price": "$$3.250",
+        "midPrice": "$$3.816",
+        "premiumPrice": "$$4.275",
+        "dieselPrice": "$$3.874",
+        "currentAvg": {
+          "regular": "$$3.250",
+          "mid": "$$3.816",
+          "premium": "$$4.275",
+          "diesel": "$$3.874"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lafayette",
+        "price": "$$3.190",
+        "midPrice": "$$3.685",
+        "premiumPrice": "$$4.169",
+        "dieselPrice": "$$3.748",
+        "currentAvg": {
+          "regular": "$$3.190",
+          "mid": "$$3.685",
+          "premium": "$$4.169",
+          "diesel": "$$3.748"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Muncie",
+        "price": "$$3.199",
+        "midPrice": "$$3.694",
+        "premiumPrice": "$$4.236",
+        "dieselPrice": "$$3.821",
+        "currentAvg": {
+          "regular": "$$3.199",
+          "mid": "$$3.694",
+          "premium": "$$4.236",
+          "diesel": "$$3.821"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "South Bend",
+        "price": "$$3.294",
+        "midPrice": "$$3.849",
+        "premiumPrice": "$$4.339",
+        "dieselPrice": "$$3.874",
+        "currentAvg": {
+          "regular": "$$3.294",
+          "mid": "$$3.849",
+          "premium": "$$4.339",
+          "diesel": "$$3.874"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Terre Haute",
+        "price": "$$3.257",
+        "midPrice": "$$3.780",
+        "premiumPrice": "$$4.251",
+        "dieselPrice": "$$3.883",
+        "currentAvg": {
+          "regular": "$$3.257",
+          "mid": "$$3.780",
+          "premium": "$$4.251",
+          "diesel": "$$3.883"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "KS",
+    "name": "KS",
+    "data": {},
+    "regular": "$2.853",
+    "midgrade": "$3.185",
+    "premium": "$3.539",
+    "diesel": "$3.480",
+    "metros": [
+      {
+        "city": "Lawrence",
+        "price": "$$2.915",
+        "midPrice": "$$3.251",
+        "premiumPrice": "$$3.713",
+        "dieselPrice": "$$3.581",
+        "currentAvg": {
+          "regular": "$$2.915",
+          "mid": "$$3.251",
+          "premium": "$$3.713",
+          "diesel": "$$3.581"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Manhattan",
+        "price": "$$2.903",
+        "midPrice": "$$3.278",
+        "premiumPrice": "$$3.698",
+        "dieselPrice": "$$3.438",
+        "currentAvg": {
+          "regular": "$$2.903",
+          "mid": "$$3.278",
+          "premium": "$$3.698",
+          "diesel": "$$3.438"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Topeka",
+        "price": "$$2.825",
+        "midPrice": "$$3.161",
+        "premiumPrice": "$$3.520",
+        "dieselPrice": "$$3.437",
+        "currentAvg": {
+          "regular": "$$2.825",
+          "mid": "$$3.161",
+          "premium": "$$3.520",
+          "diesel": "$$3.437"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Wichita",
+        "price": "$$2.908",
+        "midPrice": "$$3.161",
+        "premiumPrice": "$$3.455",
+        "dieselPrice": "$$3.459",
+        "currentAvg": {
+          "regular": "$$2.908",
+          "mid": "$$3.161",
+          "premium": "$$3.455",
+          "diesel": "$$3.459"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "KY",
+    "name": "KY",
+    "data": {},
+    "regular": "$2.858",
+    "midgrade": "$3.409",
+    "premium": "$3.811",
+    "diesel": "$3.439",
+    "metros": [
+      {
+        "city": "Bowling Green",
+        "price": "$$2.784",
+        "midPrice": "$$3.267",
+        "premiumPrice": "$$3.665",
+        "dieselPrice": "$$3.370",
+        "currentAvg": {
+          "regular": "$$2.784",
+          "mid": "$$3.267",
+          "premium": "$$3.665",
+          "diesel": "$$3.370"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Covington",
+        "price": "$$3.085",
+        "midPrice": "$$3.623",
+        "premiumPrice": "$$4.055",
+        "dieselPrice": "$$3.485",
+        "currentAvg": {
+          "regular": "$$3.085",
+          "mid": "$$3.623",
+          "premium": "$$4.055",
+          "diesel": "$$3.485"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Henderson",
+        "price": "$$2.629",
+        "midPrice": "$$3.097",
+        "premiumPrice": "$$3.510",
+        "dieselPrice": "$$3.240",
+        "currentAvg": {
+          "regular": "$$2.629",
+          "mid": "$$3.097",
+          "premium": "$$3.510",
+          "diesel": "$$3.240"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Hopkinsville",
+        "price": "$$2.762",
+        "midPrice": "$$3.189",
+        "premiumPrice": "$$3.537",
+        "dieselPrice": "$$3.606",
+        "currentAvg": {
+          "regular": "$$2.762",
+          "mid": "$$3.189",
+          "premium": "$$3.537",
+          "diesel": "$$3.606"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lexington",
+        "price": "$$2.851",
+        "midPrice": "$$3.428",
+        "premiumPrice": "$$3.761",
+        "dieselPrice": "$$3.476",
+        "currentAvg": {
+          "regular": "$$2.851",
+          "mid": "$$3.428",
+          "premium": "$$3.761",
+          "diesel": "$$3.476"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Owensboro",
+        "price": "$$2.692",
+        "midPrice": "$$3.277",
+        "premiumPrice": "$$3.682",
+        "dieselPrice": "$$3.414",
+        "currentAvg": {
+          "regular": "$$2.692",
+          "mid": "$$3.277",
+          "premium": "$$3.682",
+          "diesel": "$$3.414"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "LA",
+    "name": "LA",
+    "data": {},
+    "regular": "$2.766",
+    "midgrade": "$3.189",
+    "premium": "$3.577",
+    "diesel": "$3.365",
+    "metros": [
+      {
+        "city": "Alexandria",
+        "price": "$$2.751",
+        "midPrice": "$$3.183",
+        "premiumPrice": "$$3.574",
+        "dieselPrice": "$$3.427",
+        "currentAvg": {
+          "regular": "$$2.751",
+          "mid": "$$3.183",
+          "premium": "$$3.574",
+          "diesel": "$$3.427"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Baton Rouge",
+        "price": "$$2.752",
+        "midPrice": "$$3.180",
+        "premiumPrice": "$$3.564",
+        "dieselPrice": "$$3.374",
+        "currentAvg": {
+          "regular": "$$2.752",
+          "mid": "$$3.180",
+          "premium": "$$3.564",
+          "diesel": "$$3.374"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Hammond",
+        "price": "$$2.768",
+        "midPrice": "$$3.151",
+        "premiumPrice": "$$3.522",
+        "dieselPrice": "$$3.396",
+        "currentAvg": {
+          "regular": "$$2.768",
+          "mid": "$$3.151",
+          "premium": "$$3.522",
+          "diesel": "$$3.396"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lafayette",
+        "price": "$$2.757",
+        "midPrice": "$$3.145",
+        "premiumPrice": "$$3.521",
+        "dieselPrice": "$$3.339",
+        "currentAvg": {
+          "regular": "$$2.757",
+          "mid": "$$3.145",
+          "premium": "$$3.521",
+          "diesel": "$$3.339"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lake Charles",
+        "price": "$$2.804",
+        "midPrice": "$$3.219",
+        "premiumPrice": "$$3.660",
+        "dieselPrice": "$$3.293",
+        "currentAvg": {
+          "regular": "$$2.804",
+          "mid": "$$3.219",
+          "premium": "$$3.660",
+          "diesel": "$$3.293"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Monroe",
+        "price": "$$2.704",
+        "midPrice": "$$3.080",
+        "premiumPrice": "$$3.462",
+        "dieselPrice": "$$3.374",
+        "currentAvg": {
+          "regular": "$$2.704",
+          "mid": "$$3.080",
+          "premium": "$$3.462",
+          "diesel": "$$3.374"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "New Orleans",
+        "price": "$$2.791",
+        "midPrice": "$$3.281",
+        "premiumPrice": "$$3.680",
+        "dieselPrice": "$$3.381",
+        "currentAvg": {
+          "regular": "$$2.791",
+          "mid": "$$3.281",
+          "premium": "$$3.680",
+          "diesel": "$$3.381"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MA",
+    "name": "MA",
+    "data": {},
+    "regular": "$3.072",
+    "midgrade": "$3.679",
+    "premium": "$4.052",
+    "diesel": "$3.855",
+    "metros": [
+      {
+        "city": "Pittsfield",
+        "price": "$$3.046",
+        "midPrice": "$$3.678",
+        "premiumPrice": "$$4.050",
+        "dieselPrice": "$$3.893",
+        "currentAvg": {
+          "regular": "$$3.046",
+          "mid": "$$3.678",
+          "premium": "$$4.050",
+          "diesel": "$$3.893"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Seekonk",
+        "price": "$$2.957",
+        "midPrice": "$$3.597",
+        "premiumPrice": "$$3.927",
+        "dieselPrice": "$$3.718",
+        "currentAvg": {
+          "regular": "$$2.957",
+          "mid": "$$3.597",
+          "premium": "$$3.927",
+          "diesel": "$$3.718"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Springfield",
+        "price": "$$2.992",
+        "midPrice": "$$3.553",
+        "premiumPrice": "$$3.938",
+        "dieselPrice": "$$3.821",
+        "currentAvg": {
+          "regular": "$$2.992",
+          "mid": "$$3.553",
+          "premium": "$$3.938",
+          "diesel": "$$3.821"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Worcester",
+        "price": "$$3.058",
+        "midPrice": "$$3.650",
+        "premiumPrice": "$$4.042",
+        "dieselPrice": "$$3.823",
+        "currentAvg": {
+          "regular": "$$3.058",
+          "mid": "$$3.650",
+          "premium": "$$4.042",
+          "diesel": "$$3.823"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MD",
+    "name": "MD",
+    "data": {},
+    "regular": "$3.189",
+    "midgrade": "$3.757",
+    "premium": "$4.075",
+    "diesel": "$3.864",
+    "metros": [
+      {
+        "city": "Annapolis",
+        "price": "$$3.184",
+        "midPrice": "$$3.803",
+        "premiumPrice": "$$4.107",
+        "dieselPrice": "$$3.860",
+        "currentAvg": {
+          "regular": "$$3.184",
+          "mid": "$$3.803",
+          "premium": "$$4.107",
+          "diesel": "$$3.860"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Baltimore",
+        "price": "$$3.186",
+        "midPrice": "$$3.729",
+        "premiumPrice": "$$4.044",
+        "dieselPrice": "$$3.863",
+        "currentAvg": {
+          "regular": "$$3.186",
+          "mid": "$$3.729",
+          "premium": "$$4.044",
+          "diesel": "$$3.863"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Frederick",
+        "price": "$$3.150",
+        "midPrice": "$$3.589",
+        "premiumPrice": "$$3.922",
+        "dieselPrice": "$$3.830",
+        "currentAvg": {
+          "regular": "$$3.150",
+          "mid": "$$3.589",
+          "premium": "$$3.922",
+          "diesel": "$$3.830"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Hagerstown",
+        "price": "$$3.078",
+        "midPrice": "$$3.542",
+        "premiumPrice": "$$3.922",
+        "dieselPrice": "$$3.770",
+        "currentAvg": {
+          "regular": "$$3.078",
+          "mid": "$$3.542",
+          "premium": "$$3.922",
+          "diesel": "$$3.770"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Salisbury",
+        "price": "$$3.171",
+        "midPrice": "$$3.584",
+        "premiumPrice": "$$3.964",
+        "dieselPrice": "$$3.866",
+        "currentAvg": {
+          "regular": "$$3.171",
+          "mid": "$$3.584",
+          "premium": "$$3.964",
+          "diesel": "$$3.866"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "ME",
+    "name": "ME",
+    "data": {},
+    "regular": "$3.113",
+    "midgrade": "$3.650",
+    "premium": "$4.122",
+    "diesel": "$3.912",
+    "metros": [
+      {
+        "city": "Bangor",
+        "price": "$$3.124",
+        "midPrice": "$$3.637",
+        "premiumPrice": "$$4.152",
+        "dieselPrice": "$$3.856",
+        "currentAvg": {
+          "regular": "$$3.124",
+          "mid": "$$3.637",
+          "premium": "$$4.152",
+          "diesel": "$$3.856"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Portland",
+        "price": "$$3.093",
+        "midPrice": "$$3.611",
+        "premiumPrice": "$$4.084",
+        "dieselPrice": "$$3.965",
+        "currentAvg": {
+          "regular": "$$3.093",
+          "mid": "$$3.611",
+          "premium": "$$4.084",
+          "diesel": "$$3.965"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MI",
+    "name": "MI",
+    "data": {},
+    "regular": "$3.133",
+    "midgrade": "$3.669",
+    "premium": "$4.222",
+    "diesel": "$3.719",
+    "metros": [
+      {
+        "city": "Ann Arbor",
+        "price": "$$3.238",
+        "midPrice": "$$3.805",
+        "premiumPrice": "$$4.342",
+        "dieselPrice": "$$3.741",
+        "currentAvg": {
+          "regular": "$$3.238",
+          "mid": "$$3.805",
+          "premium": "$$4.342",
+          "diesel": "$$3.741"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Benton Harbor",
+        "price": "$$3.035",
+        "midPrice": "$$3.563",
+        "premiumPrice": "$$4.117",
+        "dieselPrice": "$$3.704",
+        "currentAvg": {
+          "regular": "$$3.035",
+          "mid": "$$3.563",
+          "premium": "$$4.117",
+          "diesel": "$$3.704"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Flint",
+        "price": "$$3.082",
+        "midPrice": "$$3.630",
+        "premiumPrice": "$$4.169",
+        "dieselPrice": "$$3.748",
+        "currentAvg": {
+          "regular": "$$3.082",
+          "mid": "$$3.630",
+          "premium": "$$4.169",
+          "diesel": "$$3.748"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jackson",
+        "price": "$$3.106",
+        "midPrice": "$$3.674",
+        "premiumPrice": "$$4.184",
+        "dieselPrice": "$$3.740",
+        "currentAvg": {
+          "regular": "$$3.106",
+          "mid": "$$3.674",
+          "premium": "$$4.184",
+          "diesel": "$$3.740"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Marquette",
+        "price": "$$3.047",
+        "midPrice": "$$3.673",
+        "premiumPrice": "$$4.129",
+        "dieselPrice": "$$3.583",
+        "currentAvg": {
+          "regular": "$$3.047",
+          "mid": "$$3.673",
+          "premium": "$$4.129",
+          "diesel": "$$3.583"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Metro Detroit",
+        "price": "$$3.195",
+        "midPrice": "$$3.774",
+        "premiumPrice": "$$4.356",
+        "dieselPrice": "$$3.732",
+        "currentAvg": {
+          "regular": "$$3.195",
+          "mid": "$$3.774",
+          "premium": "$$4.356",
+          "diesel": "$$3.732"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Traverse City",
+        "price": "$$3.137",
+        "midPrice": "$$3.667",
+        "premiumPrice": "$$4.198",
+        "dieselPrice": "$$3.541",
+        "currentAvg": {
+          "regular": "$$3.137",
+          "mid": "$$3.667",
+          "premium": "$$4.198",
+          "diesel": "$$3.541"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MN",
+    "name": "MN",
+    "data": {},
+    "regular": "$3.018",
+    "midgrade": "$3.422",
+    "premium": "$3.862",
+    "diesel": "$3.617",
+    "metros": [
+      {
+        "city": "Houston County",
+        "price": "$$3.017",
+        "midPrice": "$$0.000",
+        "premiumPrice": "$$3.932",
+        "dieselPrice": "$$3.613",
+        "currentAvg": {
+          "regular": "$$3.017",
+          "mid": "$$0.000",
+          "premium": "$$3.932",
+          "diesel": "$$3.613"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Mankato",
+        "price": "$$3.076",
+        "midPrice": "$$3.443",
+        "premiumPrice": "$$3.911",
+        "dieselPrice": "$$3.670",
+        "currentAvg": {
+          "regular": "$$3.076",
+          "mid": "$$3.443",
+          "premium": "$$3.911",
+          "diesel": "$$3.670"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Moorhead",
+        "price": "$$2.777",
+        "midPrice": "$$3.041",
+        "premiumPrice": "$$3.500",
+        "dieselPrice": "$$3.557",
+        "currentAvg": {
+          "regular": "$$2.777",
+          "mid": "$$3.041",
+          "premium": "$$3.500",
+          "diesel": "$$3.557"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Polk County",
+        "price": "$$2.831",
+        "midPrice": "$$3.039",
+        "premiumPrice": "$$3.649",
+        "dieselPrice": "$$3.504",
+        "currentAvg": {
+          "regular": "$$2.831",
+          "mid": "$$3.039",
+          "premium": "$$3.649",
+          "diesel": "$$3.504"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rochester",
+        "price": "$$3.045",
+        "midPrice": "$$3.437",
+        "premiumPrice": "$$3.989",
+        "dieselPrice": "$$3.493",
+        "currentAvg": {
+          "regular": "$$3.045",
+          "mid": "$$3.437",
+          "premium": "$$3.989",
+          "diesel": "$$3.493"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MO",
+    "name": "MO",
+    "data": {},
+    "regular": "$2.850",
+    "midgrade": "$3.220",
+    "premium": "$3.536",
+    "diesel": "$3.482",
+    "metros": [
+      {
+        "city": "Cape Girardeau",
+        "price": "$$2.820",
+        "midPrice": "$$3.177",
+        "premiumPrice": "$$3.538",
+        "dieselPrice": "$$3.467",
+        "currentAvg": {
+          "regular": "$$2.820",
+          "mid": "$$3.177",
+          "premium": "$$3.538",
+          "diesel": "$$3.467"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jefferson City",
+        "price": "$$2.894",
+        "midPrice": "$$3.200",
+        "premiumPrice": "$$3.494",
+        "dieselPrice": "$$3.464",
+        "currentAvg": {
+          "regular": "$$2.894",
+          "mid": "$$3.200",
+          "premium": "$$3.494",
+          "diesel": "$$3.464"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Joplin",
+        "price": "$$2.659",
+        "midPrice": "$$3.044",
+        "premiumPrice": "$$3.361",
+        "dieselPrice": "$$3.403",
+        "currentAvg": {
+          "regular": "$$2.659",
+          "mid": "$$3.044",
+          "premium": "$$3.361",
+          "diesel": "$$3.403"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Springfield",
+        "price": "$$2.699",
+        "midPrice": "$$3.047",
+        "premiumPrice": "$$3.357",
+        "dieselPrice": "$$3.423",
+        "currentAvg": {
+          "regular": "$$2.699",
+          "mid": "$$3.047",
+          "premium": "$$3.357",
+          "diesel": "$$3.423"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MS",
+    "name": "MS",
+    "data": {},
+    "regular": "$2.708",
+    "midgrade": "$3.144",
+    "premium": "$3.519",
+    "diesel": "$3.305",
+    "metros": [
+      {
+        "city": "Hattiesburg",
+        "price": "$$2.662",
+        "midPrice": "$$3.173",
+        "premiumPrice": "$$3.491",
+        "dieselPrice": "$$3.225",
+        "currentAvg": {
+          "regular": "$$2.662",
+          "mid": "$$3.173",
+          "premium": "$$3.491",
+          "diesel": "$$3.225"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jackson",
+        "price": "$$2.709",
+        "midPrice": "$$3.132",
+        "premiumPrice": "$$3.500",
+        "dieselPrice": "$$3.273",
+        "currentAvg": {
+          "regular": "$$2.709",
+          "mid": "$$3.132",
+          "premium": "$$3.500",
+          "diesel": "$$3.273"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "MT",
+    "name": "MT",
+    "data": {},
+    "regular": "$3.244",
+    "midgrade": "$3.552",
+    "premium": "$3.894",
+    "diesel": "$3.646",
+    "metros": [
+      {
+        "city": "Billings",
+        "price": "$$3.170",
+        "midPrice": "$$3.528",
+        "premiumPrice": "$$3.878",
+        "dieselPrice": "$$3.623",
+        "currentAvg": {
+          "regular": "$$3.170",
+          "mid": "$$3.528",
+          "premium": "$$3.878",
+          "diesel": "$$3.623"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Great Falls",
+        "price": "$$3.255",
+        "midPrice": "$$3.550",
+        "premiumPrice": "$$3.913",
+        "dieselPrice": "$$3.666",
+        "currentAvg": {
+          "regular": "$$3.255",
+          "mid": "$$3.550",
+          "premium": "$$3.913",
+          "diesel": "$$3.666"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Missoula",
+        "price": "$$3.284",
+        "midPrice": "$$3.593",
+        "premiumPrice": "$$3.912",
+        "dieselPrice": "$$3.703",
+        "currentAvg": {
+          "regular": "$$3.284",
+          "mid": "$$3.593",
+          "premium": "$$3.912",
+          "diesel": "$$3.703"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NC",
+    "name": "NC",
+    "data": {},
+    "regular": "$2.877",
+    "midgrade": "$3.319",
+    "premium": "$3.712",
+    "diesel": "$3.545",
+    "metros": [
+      {
+        "city": "Asheville",
+        "price": "$$2.873",
+        "midPrice": "$$3.304",
+        "premiumPrice": "$$3.721",
+        "dieselPrice": "$$3.547",
+        "currentAvg": {
+          "regular": "$$2.873",
+          "mid": "$$3.304",
+          "premium": "$$3.721",
+          "diesel": "$$3.547"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Burlington",
+        "price": "$$2.896",
+        "midPrice": "$$3.369",
+        "premiumPrice": "$$3.744",
+        "dieselPrice": "$$3.575",
+        "currentAvg": {
+          "regular": "$$2.896",
+          "mid": "$$3.369",
+          "premium": "$$3.744",
+          "diesel": "$$3.575"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fayetteville",
+        "price": "$$2.751",
+        "midPrice": "$$3.187",
+        "premiumPrice": "$$3.627",
+        "dieselPrice": "$$3.531",
+        "currentAvg": {
+          "regular": "$$2.751",
+          "mid": "$$3.187",
+          "premium": "$$3.627",
+          "diesel": "$$3.531"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Goldsboro",
+        "price": "$$2.808",
+        "midPrice": "$$3.305",
+        "premiumPrice": "$$3.699",
+        "dieselPrice": "$$3.529",
+        "currentAvg": {
+          "regular": "$$2.808",
+          "mid": "$$3.305",
+          "premium": "$$3.699",
+          "diesel": "$$3.529"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Greensboro",
+        "price": "$$2.878",
+        "midPrice": "$$3.314",
+        "premiumPrice": "$$3.724",
+        "dieselPrice": "$$3.542",
+        "currentAvg": {
+          "regular": "$$2.878",
+          "mid": "$$3.314",
+          "premium": "$$3.724",
+          "diesel": "$$3.542"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jacksonville",
+        "price": "$$2.829",
+        "midPrice": "$$3.270",
+        "premiumPrice": "$$3.690",
+        "dieselPrice": "$$3.562",
+        "currentAvg": {
+          "regular": "$$2.829",
+          "mid": "$$3.270",
+          "premium": "$$3.690",
+          "diesel": "$$3.562"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "New Bern",
+        "price": "$$2.892",
+        "midPrice": "$$3.310",
+        "premiumPrice": "$$3.694",
+        "dieselPrice": "$$3.632",
+        "currentAvg": {
+          "regular": "$$2.892",
+          "mid": "$$3.310",
+          "premium": "$$3.694",
+          "diesel": "$$3.632"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Raleigh",
+        "price": "$$2.889",
+        "midPrice": "$$3.321",
+        "premiumPrice": "$$3.695",
+        "dieselPrice": "$$3.611",
+        "currentAvg": {
+          "regular": "$$2.889",
+          "mid": "$$3.321",
+          "premium": "$$3.695",
+          "diesel": "$$3.611"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rocky Mount",
+        "price": "$$2.828",
+        "midPrice": "$$3.268",
+        "premiumPrice": "$$3.637",
+        "dieselPrice": "$$3.567",
+        "currentAvg": {
+          "regular": "$$2.828",
+          "mid": "$$3.268",
+          "premium": "$$3.637",
+          "diesel": "$$3.567"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Wilmington",
+        "price": "$$2.873",
+        "midPrice": "$$3.330",
+        "premiumPrice": "$$3.736",
+        "dieselPrice": "$$3.525",
+        "currentAvg": {
+          "regular": "$$2.873",
+          "mid": "$$3.330",
+          "premium": "$$3.736",
+          "diesel": "$$3.525"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "ND",
+    "name": "ND",
+    "data": {},
+    "regular": "$2.909",
+    "midgrade": "$3.264",
+    "premium": "$3.635",
+    "diesel": "$3.442",
+    "metros": [
+      {
+        "city": "Bismarck",
+        "price": "$$3.020",
+        "midPrice": "$$3.342",
+        "premiumPrice": "$$3.743",
+        "dieselPrice": "$$3.375",
+        "currentAvg": {
+          "regular": "$$3.020",
+          "mid": "$$3.342",
+          "premium": "$$3.743",
+          "diesel": "$$3.375"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Minot",
+        "price": "$$2.989",
+        "midPrice": "$$3.307",
+        "premiumPrice": "$$3.652",
+        "dieselPrice": "$$3.446",
+        "currentAvg": {
+          "regular": "$$2.989",
+          "mid": "$$3.307",
+          "premium": "$$3.652",
+          "diesel": "$$3.446"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NE",
+    "name": "NE",
+    "data": {},
+    "regular": "$2.917",
+    "midgrade": "$3.141",
+    "premium": "$3.644",
+    "diesel": "$3.484",
+    "metros": [
+      {
+        "city": "Columbus",
+        "price": "$$2.834",
+        "midPrice": "$$2.935",
+        "premiumPrice": "$$3.365",
+        "dieselPrice": "$$3.371",
+        "currentAvg": {
+          "regular": "$$2.834",
+          "mid": "$$2.935",
+          "premium": "$$3.365",
+          "diesel": "$$3.371"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Grand Island",
+        "price": "$$2.955",
+        "midPrice": "$$3.110",
+        "premiumPrice": "$$3.606",
+        "dieselPrice": "$$3.532",
+        "currentAvg": {
+          "regular": "$$2.955",
+          "mid": "$$3.110",
+          "premium": "$$3.606",
+          "diesel": "$$3.532"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Kearney",
+        "price": "$$2.946",
+        "midPrice": "$$3.315",
+        "premiumPrice": "$$3.849",
+        "dieselPrice": "$$3.437",
+        "currentAvg": {
+          "regular": "$$2.946",
+          "mid": "$$3.315",
+          "premium": "$$3.849",
+          "diesel": "$$3.437"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lincoln",
+        "price": "$$2.971",
+        "midPrice": "$$3.229",
+        "premiumPrice": "$$3.801",
+        "dieselPrice": "$$3.451",
+        "currentAvg": {
+          "regular": "$$2.971",
+          "mid": "$$3.229",
+          "premium": "$$3.801",
+          "diesel": "$$3.451"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Norfolk",
+        "price": "$$2.866",
+        "midPrice": "$$3.181",
+        "premiumPrice": "$$3.688",
+        "dieselPrice": "$$3.395",
+        "currentAvg": {
+          "regular": "$$2.866",
+          "mid": "$$3.181",
+          "premium": "$$3.688",
+          "diesel": "$$3.395"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "North Platte",
+        "price": "$$3.067",
+        "midPrice": "$$3.013",
+        "premiumPrice": "$$3.763",
+        "dieselPrice": "$$3.496",
+        "currentAvg": {
+          "regular": "$$3.067",
+          "mid": "$$3.013",
+          "premium": "$$3.763",
+          "diesel": "$$3.496"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NH",
+    "name": "NH",
+    "data": {},
+    "regular": "$3.013",
+    "midgrade": "$3.577",
+    "premium": "$4.005",
+    "diesel": "$3.828",
+    "metros": [
+      {
+        "city": "Manchester",
+        "price": "$$2.995",
+        "midPrice": "$$3.590",
+        "premiumPrice": "$$4.016",
+        "dieselPrice": "$$3.853",
+        "currentAvg": {
+          "regular": "$$2.995",
+          "mid": "$$3.590",
+          "premium": "$$4.016",
+          "diesel": "$$3.853"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NJ",
+    "name": "NJ",
+    "data": {},
+    "regular": "$3.085",
+    "midgrade": "$3.625",
+    "premium": "$3.874",
+    "diesel": "$3.715",
+    "metros": [
+      {
+        "city": "Atlantic City",
+        "price": "$$3.050",
+        "midPrice": "$$3.539",
+        "premiumPrice": "$$3.778",
+        "dieselPrice": "$$3.713",
+        "currentAvg": {
+          "regular": "$$3.050",
+          "mid": "$$3.539",
+          "premium": "$$3.778",
+          "diesel": "$$3.713"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Cape May",
+        "price": "$$3.220",
+        "midPrice": "$$3.639",
+        "premiumPrice": "$$3.884",
+        "dieselPrice": "$$3.765",
+        "currentAvg": {
+          "regular": "$$3.220",
+          "mid": "$$3.639",
+          "premium": "$$3.884",
+          "diesel": "$$3.765"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Newark",
+        "price": "$$3.125",
+        "midPrice": "$$3.708",
+        "premiumPrice": "$$3.996",
+        "dieselPrice": "$$3.729",
+        "currentAvg": {
+          "regular": "$$3.125",
+          "mid": "$$3.708",
+          "premium": "$$3.996",
+          "diesel": "$$3.729"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Trenton",
+        "price": "$$3.068",
+        "midPrice": "$$3.588",
+        "premiumPrice": "$$3.900",
+        "dieselPrice": "$$3.759",
+        "currentAvg": {
+          "regular": "$$3.068",
+          "mid": "$$3.588",
+          "premium": "$$3.900",
+          "diesel": "$$3.759"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Vineland",
+        "price": "$$3.034",
+        "midPrice": "$$3.513",
+        "premiumPrice": "$$3.673",
+        "dieselPrice": "$$3.699",
+        "currentAvg": {
+          "regular": "$$3.034",
+          "mid": "$$3.513",
+          "premium": "$$3.673",
+          "diesel": "$$3.699"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Warren County",
+        "price": "$$3.052",
+        "midPrice": "$$3.597",
+        "premiumPrice": "$$3.895",
+        "dieselPrice": "$$3.712",
+        "currentAvg": {
+          "regular": "$$3.052",
+          "mid": "$$3.597",
+          "premium": "$$3.895",
+          "diesel": "$$3.712"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NM",
+    "name": "NM",
+    "data": {},
+    "regular": "$2.929",
+    "midgrade": "$3.325",
+    "premium": "$3.629",
+    "diesel": "$3.523",
+    "metros": [
+      {
+        "city": "Albuquerque",
+        "price": "$$2.973",
+        "midPrice": "$$3.412",
+        "premiumPrice": "$$3.721",
+        "dieselPrice": "$$3.454",
+        "currentAvg": {
+          "regular": "$$2.973",
+          "mid": "$$3.412",
+          "premium": "$$3.721",
+          "diesel": "$$3.454"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Farmington",
+        "price": "$$2.956",
+        "midPrice": "$$3.283",
+        "premiumPrice": "$$3.565",
+        "dieselPrice": "$$3.629",
+        "currentAvg": {
+          "regular": "$$2.956",
+          "mid": "$$3.283",
+          "premium": "$$3.565",
+          "diesel": "$$3.629"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Las Cruces",
+        "price": "$$2.920",
+        "midPrice": "$$3.416",
+        "premiumPrice": "$$3.713",
+        "dieselPrice": "$$3.447",
+        "currentAvg": {
+          "regular": "$$2.920",
+          "mid": "$$3.416",
+          "premium": "$$3.713",
+          "diesel": "$$3.447"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Santa Fe",
+        "price": "$$2.840",
+        "midPrice": "$$3.198",
+        "premiumPrice": "$$3.572",
+        "dieselPrice": "$$3.568",
+        "currentAvg": {
+          "regular": "$$2.840",
+          "mid": "$$3.198",
+          "premium": "$$3.572",
+          "diesel": "$$3.568"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NV",
+    "name": "NV",
+    "data": {},
+    "regular": "$3.729",
+    "midgrade": "$4.022",
+    "premium": "$4.285",
+    "diesel": "$3.952",
+    "metros": [
+      {
+        "city": "Reno",
+        "price": "$$3.979",
+        "midPrice": "$$4.170",
+        "premiumPrice": "$$4.351",
+        "dieselPrice": "$$4.192",
+        "currentAvg": {
+          "regular": "$$3.979",
+          "mid": "$$4.170",
+          "premium": "$$4.351",
+          "diesel": "$$4.192"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "NY",
+    "name": "NY",
+    "data": {},
+    "regular": "$3.173",
+    "midgrade": "$3.685",
+    "premium": "$4.066",
+    "diesel": "$3.916",
+    "metros": [
+      {
+        "city": "Batavia",
+        "price": "$$3.209",
+        "midPrice": "$$3.738",
+        "premiumPrice": "$$4.134",
+        "dieselPrice": "$$4.033",
+        "currentAvg": {
+          "regular": "$$3.209",
+          "mid": "$$3.738",
+          "premium": "$$4.134",
+          "diesel": "$$4.033"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Binghamton",
+        "price": "$$3.170",
+        "midPrice": "$$3.622",
+        "premiumPrice": "$$4.024",
+        "dieselPrice": "$$3.925",
+        "currentAvg": {
+          "regular": "$$3.170",
+          "mid": "$$3.622",
+          "premium": "$$4.024",
+          "diesel": "$$3.925"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Elmira",
+        "price": "$$3.028",
+        "midPrice": "$$3.452",
+        "premiumPrice": "$$3.801",
+        "dieselPrice": "$$3.661",
+        "currentAvg": {
+          "regular": "$$3.028",
+          "mid": "$$3.452",
+          "premium": "$$3.801",
+          "diesel": "$$3.661"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Glens Falls",
+        "price": "$$3.162",
+        "midPrice": "$$3.680",
+        "premiumPrice": "$$4.130",
+        "dieselPrice": "$$3.843",
+        "currentAvg": {
+          "regular": "$$3.162",
+          "mid": "$$3.680",
+          "premium": "$$4.130",
+          "diesel": "$$3.843"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Ithaca",
+        "price": "$$3.166",
+        "midPrice": "$$3.660",
+        "premiumPrice": "$$4.041",
+        "dieselPrice": "$$3.865",
+        "currentAvg": {
+          "regular": "$$3.166",
+          "mid": "$$3.660",
+          "premium": "$$4.041",
+          "diesel": "$$3.865"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Kingston",
+        "price": "$$3.119",
+        "midPrice": "$$3.635",
+        "premiumPrice": "$$4.030",
+        "dieselPrice": "$$3.670",
+        "currentAvg": {
+          "regular": "$$3.119",
+          "mid": "$$3.635",
+          "premium": "$$4.030",
+          "diesel": "$$3.670"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rochester",
+        "price": "$$3.167",
+        "midPrice": "$$3.611",
+        "premiumPrice": "$$4.004",
+        "dieselPrice": "$$3.977",
+        "currentAvg": {
+          "regular": "$$3.167",
+          "mid": "$$3.611",
+          "premium": "$$4.004",
+          "diesel": "$$3.977"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Syracuse",
+        "price": "$$3.105",
+        "midPrice": "$$3.585",
+        "premiumPrice": "$$3.994",
+        "dieselPrice": "$$3.832",
+        "currentAvg": {
+          "regular": "$$3.105",
+          "mid": "$$3.585",
+          "premium": "$$3.994",
+          "diesel": "$$3.832"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "White Plains",
+        "price": "$$3.283",
+        "midPrice": "$$3.916",
+        "premiumPrice": "$$4.266",
+        "dieselPrice": "$$4.008",
+        "currentAvg": {
+          "regular": "$$3.283",
+          "mid": "$$3.916",
+          "premium": "$$4.266",
+          "diesel": "$$4.008"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "OH",
+    "name": "OH",
+    "data": {},
+    "regular": "$3.141",
+    "midgrade": "$3.674",
+    "premium": "$4.185",
+    "diesel": "$3.664",
+    "metros": [
+      {
+        "city": "Akron",
+        "price": "$$3.224",
+        "midPrice": "$$3.747",
+        "premiumPrice": "$$4.253",
+        "dieselPrice": "$$3.591",
+        "currentAvg": {
+          "regular": "$$3.224",
+          "mid": "$$3.747",
+          "premium": "$$4.253",
+          "diesel": "$$3.591"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Belmont County",
+        "price": "$$3.121",
+        "midPrice": "$$3.693",
+        "premiumPrice": "$$4.247",
+        "dieselPrice": "$$3.736",
+        "currentAvg": {
+          "regular": "$$3.121",
+          "mid": "$$3.693",
+          "premium": "$$4.247",
+          "diesel": "$$3.736"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Columbus",
+        "price": "$$3.191",
+        "midPrice": "$$3.700",
+        "premiumPrice": "$$4.215",
+        "dieselPrice": "$$3.660",
+        "currentAvg": {
+          "regular": "$$3.191",
+          "mid": "$$3.700",
+          "premium": "$$4.215",
+          "diesel": "$$3.660"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Dayton",
+        "price": "$$3.046",
+        "midPrice": "$$3.587",
+        "premiumPrice": "$$4.091",
+        "dieselPrice": "$$3.641",
+        "currentAvg": {
+          "regular": "$$3.046",
+          "mid": "$$3.587",
+          "premium": "$$4.091",
+          "diesel": "$$3.641"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lawerence County",
+        "price": "$$3.173",
+        "midPrice": "$$3.712",
+        "premiumPrice": "$$4.182",
+        "dieselPrice": "$$3.620",
+        "currentAvg": {
+          "regular": "$$3.173",
+          "mid": "$$3.712",
+          "premium": "$$4.182",
+          "diesel": "$$3.620"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lima",
+        "price": "$$3.097",
+        "midPrice": "$$3.616",
+        "premiumPrice": "$$4.143",
+        "dieselPrice": "$$3.581",
+        "currentAvg": {
+          "regular": "$$3.097",
+          "mid": "$$3.616",
+          "premium": "$$4.143",
+          "diesel": "$$3.581"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Mansfield",
+        "price": "$$3.216",
+        "midPrice": "$$3.765",
+        "premiumPrice": "$$4.281",
+        "dieselPrice": "$$3.778",
+        "currentAvg": {
+          "regular": "$$3.216",
+          "mid": "$$3.765",
+          "premium": "$$4.281",
+          "diesel": "$$3.778"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Springfield",
+        "price": "$$3.037",
+        "midPrice": "$$3.503",
+        "premiumPrice": "$$4.014",
+        "dieselPrice": "$$3.629",
+        "currentAvg": {
+          "regular": "$$3.037",
+          "mid": "$$3.503",
+          "premium": "$$4.014",
+          "diesel": "$$3.629"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Toledo",
+        "price": "$$3.080",
+        "midPrice": "$$3.607",
+        "premiumPrice": "$$4.092",
+        "dieselPrice": "$$3.617",
+        "currentAvg": {
+          "regular": "$$3.080",
+          "mid": "$$3.607",
+          "premium": "$$4.092",
+          "diesel": "$$3.617"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "OK",
+    "name": "OK",
+    "data": {},
+    "regular": "$2.725",
+    "midgrade": "$3.107",
+    "premium": "$3.400",
+    "diesel": "$3.324",
+    "metros": [
+      {
+        "city": "Lawton",
+        "price": "$$2.652",
+        "midPrice": "$$3.050",
+        "premiumPrice": "$$3.319",
+        "dieselPrice": "$$3.370",
+        "currentAvg": {
+          "regular": "$$2.652",
+          "mid": "$$3.050",
+          "premium": "$$3.319",
+          "diesel": "$$3.370"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Oklahoma City",
+        "price": "$$2.654",
+        "midPrice": "$$3.083",
+        "premiumPrice": "$$3.353",
+        "dieselPrice": "$$3.213",
+        "currentAvg": {
+          "regular": "$$2.654",
+          "mid": "$$3.083",
+          "premium": "$$3.353",
+          "diesel": "$$3.213"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Tulsa",
+        "price": "$$2.719",
+        "midPrice": "$$3.028",
+        "premiumPrice": "$$3.304",
+        "dieselPrice": "$$3.434",
+        "currentAvg": {
+          "regular": "$$2.719",
+          "mid": "$$3.028",
+          "premium": "$$3.304",
+          "diesel": "$$3.434"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "OR",
+    "name": "OR",
+    "data": {},
+    "regular": "$3.983",
+    "midgrade": "$4.180",
+    "premium": "$4.459",
+    "diesel": "$4.496",
+    "metros": [
+      {
+        "city": "Albany",
+        "price": "$$3.901",
+        "midPrice": "$$4.054",
+        "premiumPrice": "$$4.429",
+        "dieselPrice": "$$4.429",
+        "currentAvg": {
+          "regular": "$$3.901",
+          "mid": "$$4.054",
+          "premium": "$$4.429",
+          "diesel": "$$4.429"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Bend",
+        "price": "$$3.810",
+        "midPrice": "$$3.969",
+        "premiumPrice": "$$4.288",
+        "dieselPrice": "$$4.443",
+        "currentAvg": {
+          "regular": "$$3.810",
+          "mid": "$$3.969",
+          "premium": "$$4.288",
+          "diesel": "$$4.443"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Corvallis",
+        "price": "$$3.903",
+        "midPrice": "$$4.093",
+        "premiumPrice": "$$4.360",
+        "dieselPrice": "$$4.444",
+        "currentAvg": {
+          "regular": "$$3.903",
+          "mid": "$$4.093",
+          "premium": "$$4.360",
+          "diesel": "$$4.444"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Grants Pass",
+        "price": "$$4.108",
+        "midPrice": "$$4.160",
+        "premiumPrice": "$$4.380",
+        "dieselPrice": "$$4.644",
+        "currentAvg": {
+          "regular": "$$4.108",
+          "mid": "$$4.160",
+          "premium": "$$4.380",
+          "diesel": "$$4.644"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pendleton",
+        "price": "$$3.790",
+        "midPrice": "$$4.017",
+        "premiumPrice": "$$4.340",
+        "dieselPrice": "$$4.301",
+        "currentAvg": {
+          "regular": "$$3.790",
+          "mid": "$$4.017",
+          "premium": "$$4.340",
+          "diesel": "$$4.301"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Salem",
+        "price": "$$3.854",
+        "midPrice": "$$4.072",
+        "premiumPrice": "$$4.381",
+        "dieselPrice": "$$4.489",
+        "currentAvg": {
+          "regular": "$$3.854",
+          "mid": "$$4.072",
+          "premium": "$$4.381",
+          "diesel": "$$4.489"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "PA",
+    "name": "PA",
+    "data": {},
+    "regular": "$3.256",
+    "midgrade": "$3.702",
+    "premium": "$4.064",
+    "diesel": "$4.026",
+    "metros": [
+      {
+        "city": "Altoona",
+        "price": "$$3.377",
+        "midPrice": "$$3.791",
+        "premiumPrice": "$$4.176",
+        "dieselPrice": "$$3.974",
+        "currentAvg": {
+          "regular": "$$3.377",
+          "mid": "$$3.791",
+          "premium": "$$4.176",
+          "diesel": "$$3.974"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "East Stroudsburg",
+        "price": "$$3.156",
+        "midPrice": "$$3.637",
+        "premiumPrice": "$$3.973",
+        "dieselPrice": "$$3.931",
+        "currentAvg": {
+          "regular": "$$3.156",
+          "mid": "$$3.637",
+          "premium": "$$3.973",
+          "diesel": "$$3.931"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Erie",
+        "price": "$$3.383",
+        "midPrice": "$$3.807",
+        "premiumPrice": "$$4.214",
+        "dieselPrice": "$$4.149",
+        "currentAvg": {
+          "regular": "$$3.383",
+          "mid": "$$3.807",
+          "premium": "$$4.214",
+          "diesel": "$$4.149"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Gettysburg",
+        "price": "$$3.197",
+        "midPrice": "$$3.591",
+        "premiumPrice": "$$4.016",
+        "dieselPrice": "$$4.080",
+        "currentAvg": {
+          "regular": "$$3.197",
+          "mid": "$$3.591",
+          "premium": "$$4.016",
+          "diesel": "$$4.080"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Harrisburg",
+        "price": "$$3.166",
+        "midPrice": "$$3.593",
+        "premiumPrice": "$$3.967",
+        "dieselPrice": "$$4.038",
+        "currentAvg": {
+          "regular": "$$3.166",
+          "mid": "$$3.593",
+          "premium": "$$3.967",
+          "diesel": "$$4.038"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Johnstown",
+        "price": "$$3.344",
+        "midPrice": "$$3.733",
+        "premiumPrice": "$$4.144",
+        "dieselPrice": "$$4.043",
+        "currentAvg": {
+          "regular": "$$3.344",
+          "mid": "$$3.733",
+          "premium": "$$4.144",
+          "diesel": "$$4.043"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lancaster",
+        "price": "$$3.134",
+        "midPrice": "$$3.553",
+        "premiumPrice": "$$3.954",
+        "dieselPrice": "$$4.021",
+        "currentAvg": {
+          "regular": "$$3.134",
+          "mid": "$$3.553",
+          "premium": "$$3.954",
+          "diesel": "$$4.021"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lebanon",
+        "price": "$$3.148",
+        "midPrice": "$$3.596",
+        "premiumPrice": "$$4.001",
+        "dieselPrice": "$$4.056",
+        "currentAvg": {
+          "regular": "$$3.148",
+          "mid": "$$3.596",
+          "premium": "$$4.001",
+          "diesel": "$$4.056"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Mercer County",
+        "price": "$$3.438",
+        "midPrice": "$$3.916",
+        "premiumPrice": "$$4.336",
+        "dieselPrice": "$$4.106",
+        "currentAvg": {
+          "regular": "$$3.438",
+          "mid": "$$3.916",
+          "premium": "$$4.336",
+          "diesel": "$$4.106"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Pittsburgh",
+        "price": "$$3.375",
+        "midPrice": "$$3.820",
+        "premiumPrice": "$$4.240",
+        "dieselPrice": "$$4.089",
+        "currentAvg": {
+          "regular": "$$3.375",
+          "mid": "$$3.820",
+          "premium": "$$4.240",
+          "diesel": "$$4.089"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Reading",
+        "price": "$$3.223",
+        "midPrice": "$$3.643",
+        "premiumPrice": "$$3.996",
+        "dieselPrice": "$$3.963",
+        "currentAvg": {
+          "regular": "$$3.223",
+          "mid": "$$3.643",
+          "premium": "$$3.996",
+          "diesel": "$$3.963"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Williamsport",
+        "price": "$$3.083",
+        "midPrice": "$$3.524",
+        "premiumPrice": "$$3.891",
+        "dieselPrice": "$$3.887",
+        "currentAvg": {
+          "regular": "$$3.083",
+          "mid": "$$3.524",
+          "premium": "$$3.891",
+          "diesel": "$$3.887"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "York",
+        "price": "$$3.282",
+        "midPrice": "$$3.694",
+        "premiumPrice": "$$4.065",
+        "dieselPrice": "$$4.072",
+        "currentAvg": {
+          "regular": "$$3.282",
+          "mid": "$$3.694",
+          "premium": "$$4.065",
+          "diesel": "$$4.072"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "RI",
+    "name": "RI",
+    "data": {},
+    "regular": "$3.050",
+    "midgrade": "$3.800",
+    "premium": "$4.185",
+    "diesel": "$3.834",
+    "metros": []
+  },
+  {
+    "url": "",
+    "state": "SC",
+    "name": "SC",
+    "data": {},
+    "regular": "$2.809",
+    "midgrade": "$3.247",
+    "premium": "$3.624",
+    "diesel": "$3.454",
+    "metros": [
+      {
+        "city": "Florence",
+        "price": "$$2.737",
+        "midPrice": "$$3.218",
+        "premiumPrice": "$$3.640",
+        "dieselPrice": "$$3.487",
+        "currentAvg": {
+          "regular": "$$2.737",
+          "mid": "$$3.218",
+          "premium": "$$3.640",
+          "diesel": "$$3.487"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Greenville",
+        "price": "$$2.777",
+        "midPrice": "$$3.182",
+        "premiumPrice": "$$3.501",
+        "dieselPrice": "$$3.416",
+        "currentAvg": {
+          "regular": "$$2.777",
+          "mid": "$$3.182",
+          "premium": "$$3.501",
+          "diesel": "$$3.416"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Myrtle Beach",
+        "price": "$$2.746",
+        "midPrice": "$$3.211",
+        "premiumPrice": "$$3.628",
+        "dieselPrice": "$$3.389",
+        "currentAvg": {
+          "regular": "$$2.746",
+          "mid": "$$3.211",
+          "premium": "$$3.628",
+          "diesel": "$$3.389"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rock Hill",
+        "price": "$$2.818",
+        "midPrice": "$$3.266",
+        "premiumPrice": "$$3.632",
+        "dieselPrice": "$$3.473",
+        "currentAvg": {
+          "regular": "$$2.818",
+          "mid": "$$3.266",
+          "premium": "$$3.632",
+          "diesel": "$$3.473"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Spartanburg",
+        "price": "$$2.816",
+        "midPrice": "$$3.270",
+        "premiumPrice": "$$3.608",
+        "dieselPrice": "$$3.424",
+        "currentAvg": {
+          "regular": "$$2.816",
+          "mid": "$$3.270",
+          "premium": "$$3.608",
+          "diesel": "$$3.424"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Sumter",
+        "price": "$$2.808",
+        "midPrice": "$$3.142",
+        "premiumPrice": "$$3.580",
+        "dieselPrice": "$$3.492",
+        "currentAvg": {
+          "regular": "$$2.808",
+          "mid": "$$3.142",
+          "premium": "$$3.580",
+          "diesel": "$$3.492"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "SD",
+    "name": "SD",
+    "data": {},
+    "regular": "$3.040",
+    "midgrade": "$3.233",
+    "premium": "$3.741",
+    "diesel": "$3.413",
+    "metros": [
+      {
+        "city": "North Sioux City",
+        "price": "$$2.971",
+        "midPrice": "$$2.979",
+        "premiumPrice": "$$3.841",
+        "dieselPrice": "$$3.383",
+        "currentAvg": {
+          "regular": "$$2.971",
+          "mid": "$$2.979",
+          "premium": "$$3.841",
+          "diesel": "$$3.383"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Rapid City",
+        "price": "$$3.218",
+        "midPrice": "$$3.335",
+        "premiumPrice": "$$3.832",
+        "dieselPrice": "$$3.578",
+        "currentAvg": {
+          "regular": "$$3.218",
+          "mid": "$$3.335",
+          "premium": "$$3.832",
+          "diesel": "$$3.578"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Sioux Falls",
+        "price": "$$2.992",
+        "midPrice": "$$3.447",
+        "premiumPrice": "$$3.816",
+        "dieselPrice": "$$3.303",
+        "currentAvg": {
+          "regular": "$$2.992",
+          "mid": "$$3.447",
+          "premium": "$$3.816",
+          "diesel": "$$3.303"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "TN",
+    "name": "TN",
+    "data": {},
+    "regular": "$2.766",
+    "midgrade": "$3.220",
+    "premium": "$3.617",
+    "diesel": "$3.440",
+    "metros": [
+      {
+        "city": "Cleveland",
+        "price": "$$2.694",
+        "midPrice": "$$3.184",
+        "premiumPrice": "$$3.567",
+        "dieselPrice": "$$3.434",
+        "currentAvg": {
+          "regular": "$$2.694",
+          "mid": "$$3.184",
+          "premium": "$$3.567",
+          "diesel": "$$3.434"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jackson",
+        "price": "$$2.803",
+        "midPrice": "$$3.267",
+        "premiumPrice": "$$3.652",
+        "dieselPrice": "$$3.599",
+        "currentAvg": {
+          "regular": "$$2.803",
+          "mid": "$$3.267",
+          "premium": "$$3.652",
+          "diesel": "$$3.599"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Johnson City",
+        "price": "$$2.818",
+        "midPrice": "$$3.273",
+        "premiumPrice": "$$3.597",
+        "dieselPrice": "$$3.439",
+        "currentAvg": {
+          "regular": "$$2.818",
+          "mid": "$$3.273",
+          "premium": "$$3.597",
+          "diesel": "$$3.439"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Knoxville",
+        "price": "$$2.746",
+        "midPrice": "$$3.143",
+        "premiumPrice": "$$3.585",
+        "dieselPrice": "$$3.390",
+        "currentAvg": {
+          "regular": "$$2.746",
+          "mid": "$$3.143",
+          "premium": "$$3.585",
+          "diesel": "$$3.390"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Morristown",
+        "price": "$$2.677",
+        "midPrice": "$$3.033",
+        "premiumPrice": "$$3.505",
+        "dieselPrice": "$$3.421",
+        "currentAvg": {
+          "regular": "$$2.677",
+          "mid": "$$3.033",
+          "premium": "$$3.505",
+          "diesel": "$$3.421"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Nashville",
+        "price": "$$2.810",
+        "midPrice": "$$3.283",
+        "premiumPrice": "$$3.691",
+        "dieselPrice": "$$3.516",
+        "currentAvg": {
+          "regular": "$$2.810",
+          "mid": "$$3.283",
+          "premium": "$$3.691",
+          "diesel": "$$3.516"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "TX",
+    "name": "TX",
+    "data": {},
+    "regular": "$2.754",
+    "midgrade": "$3.204",
+    "premium": "$3.562",
+    "diesel": "$3.265",
+    "metros": [
+      {
+        "city": "Abilene",
+        "price": "$$2.674",
+        "midPrice": "$$3.014",
+        "premiumPrice": "$$3.311",
+        "dieselPrice": "$$3.263",
+        "currentAvg": {
+          "regular": "$$2.674",
+          "mid": "$$3.014",
+          "premium": "$$3.311",
+          "diesel": "$$3.263"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Amarillo",
+        "price": "$$2.650",
+        "midPrice": "$$2.982",
+        "premiumPrice": "$$3.323",
+        "dieselPrice": "$$3.236",
+        "currentAvg": {
+          "regular": "$$2.650",
+          "mid": "$$2.982",
+          "premium": "$$3.323",
+          "diesel": "$$3.236"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Corpus Christi",
+        "price": "$$2.629",
+        "midPrice": "$$3.075",
+        "premiumPrice": "$$3.426",
+        "dieselPrice": "$$3.085",
+        "currentAvg": {
+          "regular": "$$2.629",
+          "mid": "$$3.075",
+          "premium": "$$3.426",
+          "diesel": "$$3.085"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Dallas",
+        "price": "$$2.811",
+        "midPrice": "$$3.212",
+        "premiumPrice": "$$3.549",
+        "dieselPrice": "$$3.329",
+        "currentAvg": {
+          "regular": "$$2.811",
+          "mid": "$$3.212",
+          "premium": "$$3.549",
+          "diesel": "$$3.329"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "El Paso",
+        "price": "$$2.970",
+        "midPrice": "$$3.427",
+        "premiumPrice": "$$3.744",
+        "dieselPrice": "$$3.346",
+        "currentAvg": {
+          "regular": "$$2.970",
+          "mid": "$$3.427",
+          "premium": "$$3.744",
+          "diesel": "$$3.346"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Houston",
+        "price": "$$2.730",
+        "midPrice": "$$3.316",
+        "premiumPrice": "$$3.723",
+        "dieselPrice": "$$3.192",
+        "currentAvg": {
+          "regular": "$$2.730",
+          "mid": "$$3.316",
+          "premium": "$$3.723",
+          "diesel": "$$3.192"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Laredo",
+        "price": "$$2.570",
+        "midPrice": "$$3.010",
+        "premiumPrice": "$$3.384",
+        "dieselPrice": "$$3.173",
+        "currentAvg": {
+          "regular": "$$2.570",
+          "mid": "$$3.010",
+          "premium": "$$3.384",
+          "diesel": "$$3.173"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Longview",
+        "price": "$$2.763",
+        "midPrice": "$$3.206",
+        "premiumPrice": "$$3.558",
+        "dieselPrice": "$$3.269",
+        "currentAvg": {
+          "regular": "$$2.763",
+          "mid": "$$3.206",
+          "premium": "$$3.558",
+          "diesel": "$$3.269"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lubbock",
+        "price": "$$2.630",
+        "midPrice": "$$3.003",
+        "premiumPrice": "$$3.318",
+        "dieselPrice": "$$3.184",
+        "currentAvg": {
+          "regular": "$$2.630",
+          "mid": "$$3.003",
+          "premium": "$$3.318",
+          "diesel": "$$3.184"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Midland",
+        "price": "$$2.697",
+        "midPrice": "$$3.249",
+        "premiumPrice": "$$3.498",
+        "dieselPrice": "$$3.285",
+        "currentAvg": {
+          "regular": "$$2.697",
+          "mid": "$$3.249",
+          "premium": "$$3.498",
+          "diesel": "$$3.285"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Odessa",
+        "price": "$$2.716",
+        "midPrice": "$$3.235",
+        "premiumPrice": "$$3.502",
+        "dieselPrice": "$$3.323",
+        "currentAvg": {
+          "regular": "$$2.716",
+          "mid": "$$3.235",
+          "premium": "$$3.502",
+          "diesel": "$$3.323"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Angelo",
+        "price": "$$2.694",
+        "midPrice": "$$3.157",
+        "premiumPrice": "$$3.404",
+        "dieselPrice": "$$3.290",
+        "currentAvg": {
+          "regular": "$$2.694",
+          "mid": "$$3.157",
+          "premium": "$$3.404",
+          "diesel": "$$3.290"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "San Antonio",
+        "price": "$$2.762",
+        "midPrice": "$$3.218",
+        "premiumPrice": "$$3.575",
+        "dieselPrice": "$$3.261",
+        "currentAvg": {
+          "regular": "$$2.762",
+          "mid": "$$3.218",
+          "premium": "$$3.575",
+          "diesel": "$$3.261"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Tyler",
+        "price": "$$2.666",
+        "midPrice": "$$3.037",
+        "premiumPrice": "$$3.397",
+        "dieselPrice": "$$3.199",
+        "currentAvg": {
+          "regular": "$$2.666",
+          "mid": "$$3.037",
+          "premium": "$$3.397",
+          "diesel": "$$3.199"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Victoria",
+        "price": "$$2.700",
+        "midPrice": "$$3.052",
+        "premiumPrice": "$$3.439",
+        "dieselPrice": "$$3.197",
+        "currentAvg": {
+          "regular": "$$2.700",
+          "mid": "$$3.052",
+          "premium": "$$3.439",
+          "diesel": "$$3.197"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Waco",
+        "price": "$$2.715",
+        "midPrice": "$$3.111",
+        "premiumPrice": "$$3.423",
+        "dieselPrice": "$$3.325",
+        "currentAvg": {
+          "regular": "$$2.715",
+          "mid": "$$3.111",
+          "premium": "$$3.423",
+          "diesel": "$$3.325"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Wichita Falls",
+        "price": "$$2.648",
+        "midPrice": "$$3.033",
+        "premiumPrice": "$$3.331",
+        "dieselPrice": "$$3.283",
+        "currentAvg": {
+          "regular": "$$2.648",
+          "mid": "$$3.033",
+          "premium": "$$3.331",
+          "diesel": "$$3.283"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "UT",
+    "name": "UT",
+    "data": {},
+    "regular": "$3.354",
+    "midgrade": "$3.622",
+    "premium": "$3.863",
+    "diesel": "$3.725",
+    "metros": [
+      {
+        "city": "Logan",
+        "price": "$$3.342",
+        "midPrice": "$$3.592",
+        "premiumPrice": "$$3.832",
+        "dieselPrice": "$$3.740",
+        "currentAvg": {
+          "regular": "$$3.342",
+          "mid": "$$3.592",
+          "premium": "$$3.832",
+          "diesel": "$$3.740"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Ogden",
+        "price": "$$3.311",
+        "midPrice": "$$3.602",
+        "premiumPrice": "$$3.842",
+        "dieselPrice": "$$3.692",
+        "currentAvg": {
+          "regular": "$$3.311",
+          "mid": "$$3.602",
+          "premium": "$$3.842",
+          "diesel": "$$3.692"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Salt Lake City",
+        "price": "$$3.327",
+        "midPrice": "$$3.614",
+        "premiumPrice": "$$3.853",
+        "dieselPrice": "$$3.721",
+        "currentAvg": {
+          "regular": "$$3.327",
+          "mid": "$$3.614",
+          "premium": "$$3.853",
+          "diesel": "$$3.721"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "VA",
+    "name": "VA",
+    "data": {},
+    "regular": "$3.079",
+    "midgrade": "$3.558",
+    "premium": "$3.930",
+    "diesel": "$3.698",
+    "metros": [
+      {
+        "city": "Charlottesville",
+        "price": "$$3.107",
+        "midPrice": "$$3.576",
+        "premiumPrice": "$$3.913",
+        "dieselPrice": "$$3.748",
+        "currentAvg": {
+          "regular": "$$3.107",
+          "mid": "$$3.576",
+          "premium": "$$3.913",
+          "diesel": "$$3.748"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fredericksburg",
+        "price": "$$3.118",
+        "midPrice": "$$3.563",
+        "premiumPrice": "$$3.879",
+        "dieselPrice": "$$3.760",
+        "currentAvg": {
+          "regular": "$$3.118",
+          "mid": "$$3.563",
+          "premium": "$$3.879",
+          "diesel": "$$3.760"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Harrisonburg",
+        "price": "$$3.060",
+        "midPrice": "$$3.491",
+        "premiumPrice": "$$3.830",
+        "dieselPrice": "$$3.625",
+        "currentAvg": {
+          "regular": "$$3.060",
+          "mid": "$$3.491",
+          "premium": "$$3.830",
+          "diesel": "$$3.625"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Lynchburg",
+        "price": "$$2.994",
+        "midPrice": "$$3.428",
+        "premiumPrice": "$$3.800",
+        "dieselPrice": "$$3.615",
+        "currentAvg": {
+          "regular": "$$2.994",
+          "mid": "$$3.428",
+          "premium": "$$3.800",
+          "diesel": "$$3.615"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Roanoke",
+        "price": "$$2.966",
+        "midPrice": "$$3.411",
+        "premiumPrice": "$$3.770",
+        "dieselPrice": "$$3.626",
+        "currentAvg": {
+          "regular": "$$2.966",
+          "mid": "$$3.411",
+          "premium": "$$3.770",
+          "diesel": "$$3.626"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Winchester",
+        "price": "$$3.109",
+        "midPrice": "$$3.503",
+        "premiumPrice": "$$3.899",
+        "dieselPrice": "$$3.686",
+        "currentAvg": {
+          "regular": "$$3.109",
+          "mid": "$$3.503",
+          "premium": "$$3.899",
+          "diesel": "$$3.686"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "VT",
+    "name": "VT",
+    "data": {},
+    "regular": "$3.111",
+    "midgrade": "$3.650",
+    "premium": "$4.081",
+    "diesel": "$3.826",
+    "metros": [
+      {
+        "city": "Burlington",
+        "price": "$$3.154",
+        "midPrice": "$$3.653",
+        "premiumPrice": "$$4.127",
+        "dieselPrice": "$$3.834",
+        "currentAvg": {
+          "regular": "$$3.154",
+          "mid": "$$3.653",
+          "premium": "$$4.127",
+          "diesel": "$$3.834"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "WA",
+    "name": "WA",
+    "data": {},
+    "regular": "$4.392",
+    "midgrade": "$4.637",
+    "premium": "$4.876",
+    "diesel": "$5.059",
+    "metros": [
+      {
+        "city": "Bellingham",
+        "price": "$$4.286",
+        "midPrice": "$$4.516",
+        "premiumPrice": "$$4.914",
+        "dieselPrice": "$$4.879",
+        "currentAvg": {
+          "regular": "$$4.286",
+          "mid": "$$4.516",
+          "premium": "$$4.914",
+          "diesel": "$$4.879"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Bremerton",
+        "price": "$$4.488",
+        "midPrice": "$$4.738",
+        "premiumPrice": "$$4.954",
+        "dieselPrice": "$$5.020",
+        "currentAvg": {
+          "regular": "$$4.488",
+          "mid": "$$4.738",
+          "premium": "$$4.954",
+          "diesel": "$$5.020"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Olympia",
+        "price": "$$4.368",
+        "midPrice": "$$4.540",
+        "premiumPrice": "$$4.782",
+        "dieselPrice": "$$5.165",
+        "currentAvg": {
+          "regular": "$$4.368",
+          "mid": "$$4.540",
+          "premium": "$$4.782",
+          "diesel": "$$5.165"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Spokane",
+        "price": "$$3.999",
+        "midPrice": "$$4.240",
+        "premiumPrice": "$$4.475",
+        "dieselPrice": "$$4.920",
+        "currentAvg": {
+          "regular": "$$3.999",
+          "mid": "$$4.240",
+          "premium": "$$4.475",
+          "diesel": "$$4.920"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Tacoma",
+        "price": "$$4.431",
+        "midPrice": "$$4.588",
+        "premiumPrice": "$$4.890",
+        "dieselPrice": "$$5.102",
+        "currentAvg": {
+          "regular": "$$4.431",
+          "mid": "$$4.588",
+          "premium": "$$4.890",
+          "diesel": "$$5.102"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Yakima",
+        "price": "$$4.099",
+        "midPrice": "$$4.405",
+        "premiumPrice": "$$4.632",
+        "dieselPrice": "$$4.848",
+        "currentAvg": {
+          "regular": "$$4.099",
+          "mid": "$$4.405",
+          "premium": "$$4.632",
+          "diesel": "$$4.848"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Vancouver",
+        "price": "$$4.359",
+        "midPrice": "$$4.565",
+        "premiumPrice": "$$4.783",
+        "dieselPrice": "$$4.995",
+        "currentAvg": {
+          "regular": "$$4.359",
+          "mid": "$$4.565",
+          "premium": "$$4.783",
+          "diesel": "$$4.995"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Clarkson",
+        "price": "$$3.742",
+        "midPrice": "$$0.000",
+        "premiumPrice": "$$3.669",
+        "dieselPrice": "$$4.528",
+        "currentAvg": {
+          "regular": "$$3.742",
+          "mid": "$$0.000",
+          "premium": "$$3.669",
+          "diesel": "$$4.528"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Longview",
+        "price": "$$4.353",
+        "midPrice": "$$4.562",
+        "premiumPrice": "$$4.765",
+        "dieselPrice": "$$5.028",
+        "currentAvg": {
+          "regular": "$$4.353",
+          "mid": "$$4.562",
+          "premium": "$$4.765",
+          "diesel": "$$5.028"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Walla Walla",
+        "price": "$$4.419",
+        "midPrice": "$$4.650",
+        "premiumPrice": "$$4.914",
+        "dieselPrice": "$$5.051",
+        "currentAvg": {
+          "regular": "$$4.419",
+          "mid": "$$4.650",
+          "premium": "$$4.914",
+          "diesel": "$$5.051"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Wenatchee",
+        "price": "$$4.301",
+        "midPrice": "$$4.520",
+        "premiumPrice": "$$4.732",
+        "dieselPrice": "$$5.078",
+        "currentAvg": {
+          "regular": "$$4.301",
+          "mid": "$$4.520",
+          "premium": "$$4.732",
+          "diesel": "$$5.078"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "WI",
+    "name": "WI",
+    "data": {},
+    "regular": "$2.932",
+    "midgrade": "$3.452",
+    "premium": "$3.942",
+    "diesel": "$3.528",
+    "metros": [
+      {
+        "city": "Eau Claire",
+        "price": "$$2.881",
+        "midPrice": "$$3.239",
+        "premiumPrice": "$$3.816",
+        "dieselPrice": "$$3.541",
+        "currentAvg": {
+          "regular": "$$2.881",
+          "mid": "$$3.239",
+          "premium": "$$3.816",
+          "diesel": "$$3.541"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Green Bay",
+        "price": "$$2.902",
+        "midPrice": "$$3.419",
+        "premiumPrice": "$$3.898",
+        "dieselPrice": "$$3.561",
+        "currentAvg": {
+          "regular": "$$2.902",
+          "mid": "$$3.419",
+          "premium": "$$3.898",
+          "diesel": "$$3.561"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Madison",
+        "price": "$$2.919",
+        "midPrice": "$$3.544",
+        "premiumPrice": "$$3.972",
+        "dieselPrice": "$$3.514",
+        "currentAvg": {
+          "regular": "$$2.919",
+          "mid": "$$3.544",
+          "premium": "$$3.972",
+          "diesel": "$$3.514"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Appleton",
+        "price": "$$2.838",
+        "midPrice": "$$3.381",
+        "premiumPrice": "$$3.853",
+        "dieselPrice": "$$3.407",
+        "currentAvg": {
+          "regular": "$$2.838",
+          "mid": "$$3.381",
+          "premium": "$$3.853",
+          "diesel": "$$3.407"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Fond du Lac",
+        "price": "$$2.913",
+        "midPrice": "$$3.445",
+        "premiumPrice": "$$3.967",
+        "dieselPrice": "$$3.521",
+        "currentAvg": {
+          "regular": "$$2.913",
+          "mid": "$$3.445",
+          "premium": "$$3.967",
+          "diesel": "$$3.521"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Kenosha County",
+        "price": "$$2.961",
+        "midPrice": "$$3.461",
+        "premiumPrice": "$$4.011",
+        "dieselPrice": "$$3.520",
+        "currentAvg": {
+          "regular": "$$2.961",
+          "mid": "$$3.461",
+          "premium": "$$4.011",
+          "diesel": "$$3.520"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Oshkosh",
+        "price": "$$2.868",
+        "midPrice": "$$3.392",
+        "premiumPrice": "$$3.869",
+        "dieselPrice": "$$3.439",
+        "currentAvg": {
+          "regular": "$$2.868",
+          "mid": "$$3.392",
+          "premium": "$$3.869",
+          "diesel": "$$3.439"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Racine",
+        "price": "$$2.950",
+        "midPrice": "$$3.459",
+        "premiumPrice": "$$3.971",
+        "dieselPrice": "$$3.593",
+        "currentAvg": {
+          "regular": "$$2.950",
+          "mid": "$$3.459",
+          "premium": "$$3.971",
+          "diesel": "$$3.593"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Sheboygan",
+        "price": "$$2.927",
+        "midPrice": "$$3.515",
+        "premiumPrice": "$$4.008",
+        "dieselPrice": "$$3.449",
+        "currentAvg": {
+          "regular": "$$2.927",
+          "mid": "$$3.515",
+          "premium": "$$4.008",
+          "diesel": "$$3.449"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Superior",
+        "price": "$$2.985",
+        "midPrice": "$$3.425",
+        "premiumPrice": "$$4.003",
+        "dieselPrice": "$$3.869",
+        "currentAvg": {
+          "regular": "$$2.985",
+          "mid": "$$3.425",
+          "premium": "$$4.003",
+          "diesel": "$$3.869"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Wausau",
+        "price": "$$2.934",
+        "midPrice": "$$3.539",
+        "premiumPrice": "$$3.968",
+        "dieselPrice": "$$3.569",
+        "currentAvg": {
+          "regular": "$$2.934",
+          "mid": "$$3.539",
+          "premium": "$$3.968",
+          "diesel": "$$3.569"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "WV",
+    "name": "WV",
+    "data": {},
+    "regular": "$3.036",
+    "midgrade": "$3.454",
+    "premium": "$3.889",
+    "diesel": "$3.607",
+    "metros": [
+      {
+        "city": "Charleston",
+        "price": "$$3.027",
+        "midPrice": "$$3.475",
+        "premiumPrice": "$$3.913",
+        "dieselPrice": "$$3.496",
+        "currentAvg": {
+          "regular": "$$3.027",
+          "mid": "$$3.475",
+          "premium": "$$3.913",
+          "diesel": "$$3.496"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Beckley",
+        "price": "$$3.114",
+        "midPrice": "$$3.593",
+        "premiumPrice": "$$4.018",
+        "dieselPrice": "$$3.627",
+        "currentAvg": {
+          "regular": "$$3.114",
+          "mid": "$$3.593",
+          "premium": "$$4.018",
+          "diesel": "$$3.627"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Hampshire County",
+        "price": "$$3.271",
+        "midPrice": "$$3.698",
+        "premiumPrice": "$$4.099",
+        "dieselPrice": "$$3.624",
+        "currentAvg": {
+          "regular": "$$3.271",
+          "mid": "$$3.698",
+          "premium": "$$4.099",
+          "diesel": "$$3.624"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Huntington",
+        "price": "$$2.993",
+        "midPrice": "$$3.402",
+        "premiumPrice": "$$3.858",
+        "dieselPrice": "$$3.660",
+        "currentAvg": {
+          "regular": "$$2.993",
+          "mid": "$$3.402",
+          "premium": "$$3.858",
+          "diesel": "$$3.660"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Jefferson County",
+        "price": "$$3.005",
+        "midPrice": "$$3.410",
+        "premiumPrice": "$$3.785",
+        "dieselPrice": "$$3.615",
+        "currentAvg": {
+          "regular": "$$3.005",
+          "mid": "$$3.410",
+          "premium": "$$3.785",
+          "diesel": "$$3.615"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Mineral County",
+        "price": "$$3.060",
+        "midPrice": "$$3.382",
+        "premiumPrice": "$$3.715",
+        "dieselPrice": "$$3.670",
+        "currentAvg": {
+          "regular": "$$3.060",
+          "mid": "$$3.382",
+          "premium": "$$3.715",
+          "diesel": "$$3.670"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Morgantown",
+        "price": "$$3.066",
+        "midPrice": "$$3.486",
+        "premiumPrice": "$$3.972",
+        "dieselPrice": "$$3.609",
+        "currentAvg": {
+          "regular": "$$3.066",
+          "mid": "$$3.486",
+          "premium": "$$3.972",
+          "diesel": "$$3.609"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  },
+  {
+    "url": "",
+    "state": "WY",
+    "name": "WY",
+    "data": {},
+    "regular": "$3.095",
+    "midgrade": "$3.359",
+    "premium": "$3.671",
+    "diesel": "$3.621",
+    "metros": [
+      {
+        "city": "Casper",
+        "price": "$$2.717",
+        "midPrice": "$$3.077",
+        "premiumPrice": "$$3.366",
+        "dieselPrice": "$$3.438",
+        "currentAvg": {
+          "regular": "$$2.717",
+          "mid": "$$3.077",
+          "premium": "$$3.366",
+          "diesel": "$$3.438"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      },
+      {
+        "city": "Cheyenne",
+        "price": "$$2.822",
+        "midPrice": "$$3.134",
+        "premiumPrice": "$$3.410",
+        "dieselPrice": "$$3.513",
+        "currentAvg": {
+          "regular": "$$2.822",
+          "mid": "$$3.134",
+          "premium": "$$3.410",
+          "diesel": "$$3.513"
+        },
+        "yesterdayAvg": {},
+        "weekAgoAvg": {},
+        "monthAgoAvg": {},
+        "yearAgoAvg": {}
+      }
+    ]
+  }
+]
